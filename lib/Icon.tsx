@@ -15,6 +15,8 @@ const Icon: React.FC<IconProps> = ({
   return (
     <Component
       {...props}
+      height={24 || props.height}
+      width={24 || props.width}
     />
   );
 }
