@@ -6,8 +6,8 @@ function App() {
   return (
     <>
       <div className='row'>
-        {Object.keys(icons).map((name) =>
-          <div className="col-icon">
+        {Object.keys(icons).map((name, i) =>
+          <div key={i} className="col-icon">
             <Icon name={name as any} />
             <span>{name}</span>
           </div>
