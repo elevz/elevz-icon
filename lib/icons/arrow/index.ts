@@ -6,6 +6,10 @@ import ArrowUpLeft from "./arrow-up-left.svg?react";
 import ArrowUpRight from "./arrow-up-right.svg?react";
 import ArrowUp from "./arrow-up.svg?react";
 import ArrowsLeftRight from "./arrows-left-right.svg?react";
+import SwitchHorizontalLeftRight from "./switch-horizontal-left-right.svg?react";
+import SwitchHorizontalRightLeft from "./switch-horizontal-right-left.svg?react";
+import SwitchVerticalDownUp from "./switch-vertical-down-up.svg?react";
+import SwitchVerticalUpDown from "./switch-vertical-up-down.svg?react";
 
 export default {
   'arrow-down-left': ArrowDownLeft,
@@ -16,6 +20,10 @@ export default {
   'arrow-up-right': ArrowUpRight,
   'arrow-up': ArrowUp,
   'arrows-left-right': ArrowsLeftRight,
+  'switch-horizontal-left-right': SwitchHorizontalLeftRight,
+  'switch-horizontal-right-left': SwitchHorizontalRightLeft,
+  'switch-vertical-down-up': SwitchVerticalDownUp,
+  'switch-vertical-up-down': SwitchVerticalUpDown
 }
 
 export {
@@ -27,4 +35,8 @@ export {
   ArrowUpRight,
   ArrowUp,
   ArrowsLeftRight,
+  SwitchHorizontalLeftRight,
+  SwitchHorizontalRightLeft,
+  SwitchVerticalDownUp,
+  SwitchVerticalUpDown
 }
