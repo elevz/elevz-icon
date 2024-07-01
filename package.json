@@ -3,8 +3,8 @@
   "private": true,
   "version": "1.0",
   "type": "module",
-  "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "main": "dist/main.js",
+  "types": "dist/main.d.ts",
   "files": ["dist"],
   "scripts": {
     "dev": "vite",

@@ -6,6 +6,7 @@ import Home from "./home.svg?react";
 import Lock from "./lock.svg?react";
 import Mail from "./mail.svg?react";
 import MailOpen from "./mail-open.svg?react";
+import Phone from "./phone.svg?react";
 import Settings from "./settings.svg?react";
 import Trash from "./trash.svg?react";
 import Unlock from "./unlock.svg?react";
@@ -19,6 +20,7 @@ export default {
   'lock': Lock,
   'mail': Mail,
   'mail-open': MailOpen,
+  'phone': Phone,
   'settings': Settings,
   'trash': Trash,
   'unlock': Unlock,
@@ -33,6 +35,7 @@ export {
   Lock,
   Mail,
   MailOpen,
+  Phone,
   Settings,
   Trash,
   Unlock
