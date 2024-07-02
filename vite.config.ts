@@ -4,43 +4,36 @@ import { fileURLToPath } from 'node:url'
 import react from '@vitejs/plugin-react'
 import dts from 'vite-plugin-dts'
 import svgr from 'vite-plugin-svgr'
-import { glob } from 'glob'
+import { globSync } from 'glob'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  plugins: [react(), svgr(), dts({ include: ['lib'] })],
   build: {
     copyPublicDir: false,
+    sourcemap: false,
     lib: {
       entry: resolve(__dirname, 'lib/index.ts'),
+      name: 'MyLib',
       formats: ['es'],
-      fileName: 'index'
+      fileName: 'my-lib'
     },
     rollupOptions: {
       external: ['react', 'react/jsx-runtime'],
       input: Object.fromEntries(
         // https://rollupjs.org/configuration-options/#input
-        glob.sync('lib/**/*.{ts,tsx}', {
-          ignore: ["lib/**/*.d.ts"],
-        }).map(file => [
-          // 1. The name of the entry point
-          // lib/nested/foo.js becomes nested/foo
-          relative(
-            'lib',
-            file.slice(0, file.length - extname(file).length)
-          ),
-          // 2. The absolute path to the entry file
-          // lib/nested/foo.ts becomes /project/lib/nested/foo.ts
+        globSync('lib/**/*.{ts,tsx}', { ignore: ["lib/**/*.d.ts"] }).map(file => [
+          relative('lib', file.slice(0, file.length - extname(file).length)),
           fileURLToPath(new URL(file, import.meta.url))
         ])
       ),
       output: {
-        assetFileNames: 'assets/[name][extname]',
         entryFileNames: '[name].js',
       }
     }
   },
-  server: {
-    port: 3000
-  }
+  plugins: [
+    react(),
+    svgr(),
+    dts({ include: ['lib'] })
+  ]
 })
