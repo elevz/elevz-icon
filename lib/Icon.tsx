@@ -12,7 +12,7 @@ const Icon: React.FC<IconProps> = ({
   size = 30,
   ...props
 }) => {
-  const Component = icons[name ?? 'alert-triangle'];
+  const Component = icons.hasOwnProperty(name) ? icons[name] : icons["alert-circle"];
 
   return (
     <Component
