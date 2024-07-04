@@ -1,4 +1,4 @@
-import icons from "./icons";
+import icons from "./svg";
 
 export type IconName = keyof typeof icons;
 
@@ -12,7 +12,7 @@ const Icon: React.FC<IconProps> = ({
   size = 30,
   ...props
 }) => {
-  const Component = icons[name];
+  const Component = icons[name ?? 'alert-triangle'];
 
   return (
     <Component

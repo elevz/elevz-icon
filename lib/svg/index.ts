@@ -1,5 +1,6 @@
 /// <reference types="vite-plugin-svgr/client" />
 
+import alert from "./alert";
 import arrow from "./arrow";
 import bell from "./bell";
 import calendar from "./calendar";
@@ -9,6 +10,7 @@ import home from "./general";
 import user from "./user";
 
 export default {
+  ...alert,
   ...arrow,
   ...bell,
   ...calendar,
@@ -18,6 +20,7 @@ export default {
   ...user
 }
 
+export * from "./alert";
 export * from "./arrow";
 export * from "./bell";
 export * from "./calendar";

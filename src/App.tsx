@@ -1,5 +1,5 @@
 import Icon from '../lib/Icon'
-import icons from '../lib/icons'
+import icons from '../lib/svg'
 import './App.css'
 
 function App() {
