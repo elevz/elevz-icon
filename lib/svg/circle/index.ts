@@ -3,6 +3,7 @@ import CircleCheck from './circle-check.svg?react';
 import CircleDashed from './circle-dashed.svg?react';
 import CircleDollar from './circle-dollar.svg?react';
 import CircleDot from './circle-dot.svg?react';
+import CircleLocation from './circle-location.svg?react';
 import CircleMinus from './circle-minus.svg?react';
 import CirclePause from './circle-pause.svg?react';
 import CirclePercentage from './circle-percentage.svg?react';
@@ -20,6 +21,7 @@ export default {
   'circle-dashed': CircleDashed,
   'circle-dollar': CircleDollar,
   'circle-dot': CircleDot,
+  'circle-location': CircleLocation,
   'circle-minus': CircleMinus,
   'circle-pause': CirclePause,
   'circle-percentage': CirclePercentage,
@@ -38,6 +40,7 @@ export {
   CircleDashed,
   CircleDollar,
   CircleDot,
+  CircleLocation,
   CircleMinus,
   CirclePause,
   CirclePercentage,
