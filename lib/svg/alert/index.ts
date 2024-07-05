@@ -1,12 +1,12 @@
-import AlertCircle from "./alert-circle.svg?react"
-import AlertHexagon from "./alert-hexagon.svg?react"
-import AlertOctagon from "./alert-octagon.svg?react"
-import AlertSquare from "./alert-square.svg?react"
-import AlertTriangle from "./alert-triangle.svg?react"
-import AnnotationAlert from "./annotation-alert.svg?react"
-import MessageAlertCircle from "./message-alert-circle.svg?react"
-import MessageAlertSquare from "./message-alert-square.svg?react"
-import MessageAlert from "./message-alert.svg?react"
+import AlertCircle from "./alert-circle.svg?react";
+import AlertHexagon from "./alert-hexagon.svg?react";
+import AlertOctagon from "./alert-octagon.svg?react";
+import AlertSquare from "./alert-square.svg?react";
+import AlertTriangle from "./alert-triangle.svg?react";
+import AnnotationAlert from "./annotation-alert.svg?react";
+import MessageAlertCircle from "./message-alert-circle.svg?react";
+import MessageAlertSquare from "./message-alert-square.svg?react";
+import MessageAlert from "./message-alert.svg?react";
 
 export default {
   'alert-circle': AlertCircle,
