@@ -12,6 +12,8 @@ import ChevronSelectorHorizontal from "./chevron-selector-horizontal.svg?react";
 import ChevronSelectorVertical from "./chevron-selector-vertical.svg?react";
 import ChevronUpDouble from "./chevron-up-double.svg?react";
 import ChevronUpLeft from "./chevron-up-left.svg?react";
+import ChevronUpRight from "./chevron-up-right.svg?react";
+import ChevronUp from "./chevron-up.svg?react";
 
 export {
   ChevronDownDouble,
@@ -41,4 +43,6 @@ export default {
   'chevron-selector-vertical': ChevronSelectorVertical,
   'chevron-up-double': ChevronUpDouble,
   'chevron-up-left': ChevronUpLeft,
+  'chevron-up-right': ChevronUpRight,
+  'chevron-up': ChevronUp,
 }
