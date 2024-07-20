@@ -9,6 +9,7 @@ import circle from "./circle";
 import code from "./code";
 import file from "./file";
 import general from "./general";
+import location from "./location";
 import user from "./user";
 
 export default {
@@ -21,6 +22,7 @@ export default {
   ...code,
   ...file,
   ...general,
+  ...location,
   ...user
 }
 
@@ -33,4 +35,5 @@ export * from "./circle";
 export * from "./code";
 export * from "./file";
 export * from "./general";
+export * from "./location";
 export * from "./user";

@@ -1,9 +1,7 @@
 import BoltCircle from './bolt-circle.svg?react';
 import CheckCircle from './check-circle.svg?react';
 import CircleDashed from './circle-dashed.svg?react';
-import DollarCircle from './dollar-circle.svg?react';
 import CircleDot from './circle-dot.svg?react';
-import LocationCircle from './location-circle.svg?react';
 import MinusCircle from './minus-circle.svg?react';
 import PauseCircle from './pause-circle.svg?react';
 import PercentageCircle from './percentage-circle.svg?react';
@@ -20,9 +18,7 @@ export default {
   'bolt-circle': BoltCircle,
   'check-circle': CheckCircle,
   'circle-dashed': CircleDashed,
-  'dollar-circle': DollarCircle,
   'circle-dot': CircleDot,
-  'location-circle': LocationCircle,
   'minus-circle': MinusCircle,
   'pause-circle': PauseCircle,
   'percentage-circle': PercentageCircle,
@@ -40,9 +36,7 @@ export {
   BoltCircle,
   CheckCircle,
   CircleDashed,
-  DollarCircle,
   CircleDot,
-  LocationCircle,
   MinusCircle,
   PauseCircle,
   PercentageCircle,
