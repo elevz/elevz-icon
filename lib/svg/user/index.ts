@@ -11,11 +11,3 @@ export default {
   'user-x': UserX,
   'user': User,
 }
-
-export {
-  UserCheck,
-  UserMinus,
-  UserPlus,
-  UserX,
-  User,
-}

@@ -27,6 +27,7 @@ body {
   gap: 4px;
   padding: 4px;
   height: 80px;
+  cursor: pointer;
 }
 
 .icon span {
