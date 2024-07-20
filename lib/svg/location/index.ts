@@ -6,7 +6,6 @@ import LocationPin from "./location-pin.svg?react";
 import LocationPinEmpty from "./location-pin-empty.svg?react";
 import Map from "./map.svg?react";
 import MapPin from "./map-pin.svg?react";
-import SearchAlt1 from "./search-alt-1.svg?react";
 
 export default {
   'globe': Globe,
@@ -17,7 +16,6 @@ export default {
   'location-pin-empty': LocationPinEmpty,
   'map': Map,
   'map-pin': MapPin,
-  'search-alt-1': SearchAlt1,
 }
 
 export {
@@ -29,5 +27,4 @@ export {
   LocationPinEmpty,
   Map,
   MapPin,
-  SearchAlt1,
 }

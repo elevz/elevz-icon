@@ -14,7 +14,7 @@ function App() {
 
   return (
     <div className="container">
-      {Object.keys(icons).map((name, i) =>
+      {Object.keys(icons).sort().map((name, i) =>
         <div key={i} className="icon" onClick={() => copyToClipboard(name)}>
           <Icon name={name as any} />
           <span>{name}</span>

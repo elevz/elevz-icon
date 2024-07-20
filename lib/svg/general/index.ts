@@ -14,11 +14,12 @@ import Home from "./home.svg?react";
 import Lock from "./lock.svg?react";
 import Mail from "./mail.svg?react";
 import MailOpen from "./mail-open.svg?react";
-import Maximize from "./maximize.svg?react";
-import Minimize from "./minimize.svg?react";
+import Moon from "./moon.svg?react";
 import PenSquare from "./pen-square.svg?react";
 import Phone from "./phone.svg?react";
+import Search from "./search-alt-1.svg?react";
 import Settings from "./settings.svg?react";
+import Sun from "./sun.svg?react";
 import Trash from "./trash.svg?react";
 import ThreeDotsHorizontal from "./three-dots-horizontal.svg?react";
 import ThreeDotsVertical from "./three-dots-vertical.svg?react";
@@ -42,14 +43,45 @@ export default {
   'lock': Lock,
   'mail': Mail,
   'mail-open': MailOpen,
-  'maximize': Maximize,
-  'minimize': Minimize,
+  'moon': Moon,
   'pen-square': PenSquare,
   'phone': Phone,
+  'search': Search,
   'settings': Settings,
+  'sun': Sun,
   'trash': Trash,
   'three-dots-horizontal': ThreeDotsHorizontal,
   'three-dots-vertical': ThreeDotsVertical,
   'unlock': Unlock,
   'xmark': Xmark
+}
+
+export {
+  AlignJustify,
+  AlignLeft,
+  AlignRight,
+  Bookmark,
+  CheckDouble,
+  Check,
+  CheckSquare,
+  CheckAll,
+  DiamondXmark,
+  Eye,
+  EyeOff,
+  Grid,
+  Home,
+  Lock,
+  Mail,
+  MailOpen,
+  Moon,
+  PenSquare,
+  Phone,
+  Search,
+  Settings,
+  Sun,
+  Trash,
+  ThreeDotsHorizontal,
+  ThreeDotsVertical,
+  Unlock,
+  Xmark,
 }
