@@ -7,7 +7,8 @@ import calendar from "./calendar";
 import chevron from "./chevron";
 import circle from "./circle";
 import code from "./code";
-import home from "./general";
+import file from "./file";
+import general from "./general";
 import user from "./user";
 
 export default {
@@ -18,7 +19,8 @@ export default {
   ...chevron,
   ...circle,
   ...code,
-  ...home,
+  ...file,
+  ...general,
   ...user
 }
 
@@ -29,5 +31,6 @@ export * from "./calendar";
 export * from "./chevron";
 export * from "./circle";
 export * from "./code";
+export * from "./file";
 export * from "./general";
 export * from "./user";
