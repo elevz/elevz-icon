@@ -65,7 +65,9 @@ import Eye from "./eye.svg?react";
 import FileBlock from "./file-block.svg?react";
 import FileCheck from "./file-check.svg?react";
 import FileDownload from "./file-download.svg?react";
+import FileEdit from "./file-edit.svg?react";
 import FileExclamation from "./file-exclamation.svg?react";
+import FileHorizontal from "./file-horizontal.svg?react";
 import FileInfo from "./file-info.svg?react";
 import FileLine from "./file-line.svg?react";
 import FileUpload from "./file-upload.svg?react";
@@ -73,6 +75,7 @@ import File from "./file.svg?react";
 import FilterXmark from "./filter-xmark.svg?react";
 import Filter from "./filter.svg?react";
 import Flag from "./flag.svg?react";
+import Folder from "./folder.svg?react";
 import Globe from "./globe.svg?react";
 import Grid from "./grid.svg?react";
 import Home from "./home.svg?react";
@@ -178,7 +181,9 @@ export default {
   'file-block': FileBlock,
   'file-check': FileCheck,
   'file-download': FileDownload,
+  'file-edit': FileEdit,
   'file-exclamation': FileExclamation,
+  'file-horizontal': FileHorizontal,
   'file-info': FileInfo,
   'file-line': FileLine,
   'file-upload': FileUpload,
@@ -186,6 +191,7 @@ export default {
   'filter-xmark': FilterXmark,
   'filter': Filter,
   'flag': Flag,
+  'folder': Folder,
   'globe': Globe,
   'grid': Grid,
   'home': Home,

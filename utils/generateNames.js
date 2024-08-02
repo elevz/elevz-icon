@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 
 // Obtém o diretório do arquivo atual
 const __filename = fileURLToPath(import.meta.url);
-const __dirname = path.dirname(__filename);
+const __dirname = path.dirname(__filename).replace('/utils', '');
 
 const directoryPath = path.join(__dirname, 'lib/svg'); // Substitua pelo caminho da sua pasta
 const indexFilePath = path.join(__dirname, 'lib/svg/index.ts'); // Substitua pelo caminho do arquivo de saída
