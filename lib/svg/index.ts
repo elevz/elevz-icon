@@ -112,6 +112,7 @@ import UserMinus from "./user-minus.svg?react";
 import UserPlus from "./user-plus.svg?react";
 import UserX from "./user-x.svg?react";
 import User from "./user.svg?react";
+import Wallet from "./wallet.svg?react";
 import Xmark from "./xmark.svg?react";
 
 export default {
@@ -228,5 +229,6 @@ export default {
   'user-plus': UserPlus,
   'user-x': UserX,
   'user': User,
+  'wallet': Wallet,
   'xmark': Xmark
 };
