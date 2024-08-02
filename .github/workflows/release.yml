@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - main
+permissions:
+  contents: write
 
 jobs:
   changelog:
@@ -14,10 +16,10 @@ jobs:
         id: changelog
         uses: TriPSs/conventional-changelog-action@v5
         with:
-          github-token: ${{ secrets.github_token }}
+          github-token: ${{ secrets.PA_TOKEN }}
           version-file: "./package.json,./package-lock.json"
 
-      - name: create release
+      - name: Create Release
         uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         env:
