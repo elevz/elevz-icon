@@ -1,4 +1,6 @@
 /// <reference types="vite-plugin-svgr/client" />
+import AddressBook from "./address-book.svg?react";
+import AddressCard from "./address-card.svg?react";
 import AlertCircle from "./alert-circle.svg?react";
 import AlertSquare from "./alert-square.svg?react";
 import AlertTriangle from "./alert-triangle.svg?react";
@@ -14,6 +16,7 @@ import ArrowUpLeft from "./arrow-up-left.svg?react";
 import ArrowUpRight from "./arrow-up-right.svg?react";
 import ArrowUp from "./arrow-up.svg?react";
 import ArrowsLeftRight from "./arrows-left-right.svg?react";
+import AtSign from "./at-sign.svg?react";
 import Bell from "./bell.svg?react";
 import BoltCircle from "./bolt-circle.svg?react";
 import Bookmark from "./bookmark.svg?react";
@@ -57,7 +60,10 @@ import CircleDot from "./circle-dot.svg?react";
 import CircleStop from "./circle-stop.svg?react";
 import CircleXmark from "./circle-xmark.svg?react";
 import Circle from "./circle.svg?react";
+import CreditCard from "./credit-card.svg?react";
 import DiamondXmark from "./diamond-xmark.svg?react";
+import DollarCircle from "./dollar-circle.svg?react";
+import Dollar from "./dollar.svg?react";
 import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
@@ -78,7 +84,9 @@ import Flag from "./flag.svg?react";
 import Folder from "./folder.svg?react";
 import Globe from "./globe.svg?react";
 import Grid from "./grid.svg?react";
+import Heart from "./heart.svg?react";
 import Home from "./home.svg?react";
+import ImageSquare from "./image-square.svg?react";
 import InfoCircle from "./info-circle.svg?react";
 import LocationArrow from "./location-arrow.svg?react";
 import LocationCheck from "./location-check.svg?react";
@@ -88,23 +96,36 @@ import LocationPinLock from "./location-pin-lock.svg?react";
 import LocationPinSlash from "./location-pin-slash.svg?react";
 import LocationPin from "./location-pin.svg?react";
 import Lock from "./lock.svg?react";
+import Login from "./login.svg?react";
+import Logout from "./logout.svg?react";
 import MailOpen from "./mail-open.svg?react";
 import Mail from "./mail.svg?react";
 import MapPin from "./map-pin.svg?react";
 import Map from "./map.svg?react";
+import MinusCircle from "./minus-circle.svg?react";
+import MinusSquare from "./minus-square.svg?react";
+import Minus from "./minus.svg?react";
 import Moon from "./moon.svg?react";
+import NetworkWired from "./network-wired.svg?react";
 import PenSquare from "./pen-square.svg?react";
 import Phone from "./phone.svg?react";
+import PlusCircle from "./plus-circle.svg?react";
+import Plus from "./plus.svg?react";
+import Printer from "./printer.svg?react";
 import SearchAlt1 from "./search-alt-1.svg?react";
 import Settings from "./settings.svg?react";
+import SlidersSquare from "./sliders-square.svg?react";
+import Square from "./square.svg?react";
 import Star from "./star.svg?react";
 import Sun from "./sun.svg?react";
 import SwitchHorizontalLeftRight from "./switch-horizontal-left-right.svg?react";
 import SwitchHorizontalRightLeft from "./switch-horizontal-right-left.svg?react";
 import SwitchVerticalDownUp from "./switch-vertical-down-up.svg?react";
 import SwitchVerticalUpDown from "./switch-vertical-up-down.svg?react";
+import Tag from "./tag.svg?react";
 import ThreeDotsHorizontal from "./three-dots-horizontal.svg?react";
 import ThreeDotsVertical from "./three-dots-vertical.svg?react";
+import TrashBlank from "./trash-blank.svg?react";
 import Trash from "./trash.svg?react";
 import Unlock from "./unlock.svg?react";
 import UserCheck from "./user-check.svg?react";
@@ -116,7 +137,9 @@ import Wallet from "./wallet.svg?react";
 import Xmark from "./xmark.svg?react";
 
 export default {
-    'alert-circle': AlertCircle,
+    'address-book': AddressBook,
+  'address-card': AddressCard,
+  'alert-circle': AlertCircle,
   'alert-square': AlertSquare,
   'alert-triangle': AlertTriangle,
   'align-justify': AlignJustify,
@@ -131,6 +154,7 @@ export default {
   'arrow-up-right': ArrowUpRight,
   'arrow-up': ArrowUp,
   'arrows-left-right': ArrowsLeftRight,
+  'at-sign': AtSign,
   'bell': Bell,
   'bolt-circle': BoltCircle,
   'bookmark': Bookmark,
@@ -174,7 +198,10 @@ export default {
   'circle-stop': CircleStop,
   'circle-xmark': CircleXmark,
   'circle': Circle,
+  'credit-card': CreditCard,
   'diamond-xmark': DiamondXmark,
+  'dollar-circle': DollarCircle,
+  'dollar': Dollar,
   'eye-alt': EyeAlt,
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
@@ -195,7 +222,9 @@ export default {
   'folder': Folder,
   'globe': Globe,
   'grid': Grid,
+  'heart': Heart,
   'home': Home,
+  'image-square': ImageSquare,
   'info-circle': InfoCircle,
   'location-arrow': LocationArrow,
   'location-check': LocationCheck,
@@ -205,23 +234,36 @@ export default {
   'location-pin-slash': LocationPinSlash,
   'location-pin': LocationPin,
   'lock': Lock,
+  'login': Login,
+  'logout': Logout,
   'mail-open': MailOpen,
   'mail': Mail,
   'map-pin': MapPin,
   'map': Map,
+  'minus-circle': MinusCircle,
+  'minus-square': MinusSquare,
+  'minus': Minus,
   'moon': Moon,
+  'network-wired': NetworkWired,
   'pen-square': PenSquare,
   'phone': Phone,
+  'plus-circle': PlusCircle,
+  'plus': Plus,
+  'printer': Printer,
   'search-alt-1': SearchAlt1,
   'settings': Settings,
+  'sliders-square': SlidersSquare,
+  'square': Square,
   'star': Star,
   'sun': Sun,
   'switch-horizontal-left-right': SwitchHorizontalLeftRight,
   'switch-horizontal-right-left': SwitchHorizontalRightLeft,
   'switch-vertical-down-up': SwitchVerticalDownUp,
   'switch-vertical-up-down': SwitchVerticalUpDown,
+  'tag': Tag,
   'three-dots-horizontal': ThreeDotsHorizontal,
   'three-dots-vertical': ThreeDotsVertical,
+  'trash-blank': TrashBlank,
   'trash': Trash,
   'unlock': Unlock,
   'user-check': UserCheck,
