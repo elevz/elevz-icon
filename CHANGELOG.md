@@ -1,3 +1,12 @@
+# [0.2.0](https://github.com/elevz/elevz-icon/compare/v0.1.1...v0.2.0) (2024-08-05)
+
+
+### Features
+
+* add icons ([1418f42](https://github.com/elevz/elevz-icon/commit/1418f420ce8d53067f6536245e78c792c31b29c9))
+
+
+
 ## [0.1.1](https://github.com/elevz/elevz-icon/compare/v0.1.0...v0.1.1) (2024-08-05)
 
 
