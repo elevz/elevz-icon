@@ -17,6 +17,7 @@ import ArrowUpRight from "./arrow-up-right.svg?react";
 import ArrowUp from "./arrow-up.svg?react";
 import ArrowsLeftRight from "./arrows-left-right.svg?react";
 import AtSign from "./at-sign.svg?react";
+import Bars from "./bars.svg?react";
 import Bell from "./bell.svg?react";
 import BoltCircle from "./bolt-circle.svg?react";
 import Bookmark from "./bookmark.svg?react";
@@ -64,6 +65,7 @@ import CreditCard from "./credit-card.svg?react";
 import DiamondXmark from "./diamond-xmark.svg?react";
 import DollarCircle from "./dollar-circle.svg?react";
 import Dollar from "./dollar.svg?react";
+import Dot from "./dot.svg?react";
 import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
@@ -155,6 +157,7 @@ export default {
   'arrow-up': ArrowUp,
   'arrows-left-right': ArrowsLeftRight,
   'at-sign': AtSign,
+  'bars': Bars,
   'bell': Bell,
   'bolt-circle': BoltCircle,
   'bookmark': Bookmark,
@@ -202,6 +205,7 @@ export default {
   'diamond-xmark': DiamondXmark,
   'dollar-circle': DollarCircle,
   'dollar': Dollar,
+  'dot': Dot,
   'eye-alt': EyeAlt,
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
