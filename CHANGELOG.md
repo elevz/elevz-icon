@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/elevz/elevz-icon/compare/v0.2.0...v0.3.0) (2024-08-10)
+
+
+### Features
+
+* add bars and dot ([a779418](https://github.com/elevz/elevz-icon/commit/a7794183578311b40a6c079160c4244cdfc549da))
+
+
+
 # [0.2.0](https://github.com/elevz/elevz-icon/compare/v0.1.1...v0.2.0) (2024-08-05)
 
 
