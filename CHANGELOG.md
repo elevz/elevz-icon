@@ -1,3 +1,12 @@
+# [0.4.0](https://github.com/elevz/elevz-icon/compare/v0.3.0...v0.4.0) (2024-08-13)
+
+
+### Features
+
+* Add dashboard, cart, cart full, wallet-money ([3158a58](https://github.com/elevz/elevz-icon/commit/3158a58944f8d0bc7def995334cb3bcec29e38de))
+
+
+
 # [0.3.0](https://github.com/elevz/elevz-icon/compare/v0.2.0...v0.3.0) (2024-08-10)
 
 
