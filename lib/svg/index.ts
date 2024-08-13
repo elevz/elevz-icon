@@ -62,6 +62,7 @@ import CircleStop from "./circle-stop.svg?react";
 import CircleXmark from "./circle-xmark.svg?react";
 import Circle from "./circle.svg?react";
 import CreditCard from "./credit-card.svg?react";
+import DashboardOutline from "./dashboard-outline.svg?react";
 import DiamondXmark from "./diamond-xmark.svg?react";
 import DollarCircle from "./dollar-circle.svg?react";
 import Dollar from "./dollar.svg?react";
@@ -116,6 +117,8 @@ import Plus from "./plus.svg?react";
 import Printer from "./printer.svg?react";
 import SearchAlt1 from "./search-alt-1.svg?react";
 import Settings from "./settings.svg?react";
+import ShoppingCartFull from "./shopping-cart-full.svg?react";
+import ShoppingCart from "./shopping-cart.svg?react";
 import SlidersSquare from "./sliders-square.svg?react";
 import Square from "./square.svg?react";
 import Star from "./star.svg?react";
@@ -135,6 +138,7 @@ import UserMinus from "./user-minus.svg?react";
 import UserPlus from "./user-plus.svg?react";
 import UserX from "./user-x.svg?react";
 import User from "./user.svg?react";
+import WalletMoneyOutline from "./wallet-money-outline.svg?react";
 import Wallet from "./wallet.svg?react";
 import Xmark from "./xmark.svg?react";
 
@@ -202,6 +206,7 @@ export default {
   'circle-xmark': CircleXmark,
   'circle': Circle,
   'credit-card': CreditCard,
+  'dashboard-outline': DashboardOutline,
   'diamond-xmark': DiamondXmark,
   'dollar-circle': DollarCircle,
   'dollar': Dollar,
@@ -256,6 +261,8 @@ export default {
   'printer': Printer,
   'search-alt-1': SearchAlt1,
   'settings': Settings,
+  'shopping-cart-full': ShoppingCartFull,
+  'shopping-cart': ShoppingCart,
   'sliders-square': SlidersSquare,
   'square': Square,
   'star': Star,
@@ -275,6 +282,7 @@ export default {
   'user-plus': UserPlus,
   'user-x': UserX,
   'user': User,
+  'wallet-money-outline': WalletMoneyOutline,
   'wallet': Wallet,
   'xmark': Xmark
 };
