@@ -91,6 +91,7 @@ import Heart from "./heart.svg?react";
 import Home from "./home.svg?react";
 import ImageSquare from "./image-square.svg?react";
 import InfoCircle from "./info-circle.svg?react";
+import ListSquare from "./list-square.svg?react";
 import LocationArrow from "./location-arrow.svg?react";
 import LocationCheck from "./location-check.svg?react";
 import LocationCrosshairs from "./location-crosshairs.svg?react";
@@ -108,6 +109,8 @@ import Map from "./map.svg?react";
 import MinusCircle from "./minus-circle.svg?react";
 import MinusSquare from "./minus-square.svg?react";
 import Minus from "./minus.svg?react";
+import MoneyBill from "./money-bill.svg?react";
+import MoneyInsert from "./money-insert.svg?react";
 import Moon from "./moon.svg?react";
 import NetworkWired from "./network-wired.svg?react";
 import PenSquare from "./pen-square.svg?react";
@@ -127,6 +130,7 @@ import SwitchHorizontalLeftRight from "./switch-horizontal-left-right.svg?react"
 import SwitchHorizontalRightLeft from "./switch-horizontal-right-left.svg?react";
 import SwitchVerticalDownUp from "./switch-vertical-down-up.svg?react";
 import SwitchVerticalUpDown from "./switch-vertical-up-down.svg?react";
+import TableList from "./table-list.svg?react";
 import Tag from "./tag.svg?react";
 import ThreeDotsHorizontal from "./three-dots-horizontal.svg?react";
 import ThreeDotsVertical from "./three-dots-vertical.svg?react";
@@ -138,6 +142,7 @@ import UserMinus from "./user-minus.svg?react";
 import UserPlus from "./user-plus.svg?react";
 import UserX from "./user-x.svg?react";
 import User from "./user.svg?react";
+import Users from "./users.svg?react";
 import WalletMoneyOutline from "./wallet-money-outline.svg?react";
 import Wallet from "./wallet.svg?react";
 import Xmark from "./xmark.svg?react";
@@ -235,6 +240,7 @@ export default {
   'home': Home,
   'image-square': ImageSquare,
   'info-circle': InfoCircle,
+  'list-square': ListSquare,
   'location-arrow': LocationArrow,
   'location-check': LocationCheck,
   'location-crosshairs': LocationCrosshairs,
@@ -252,6 +258,8 @@ export default {
   'minus-circle': MinusCircle,
   'minus-square': MinusSquare,
   'minus': Minus,
+  'money-bill': MoneyBill,
+  'money-insert': MoneyInsert,
   'moon': Moon,
   'network-wired': NetworkWired,
   'pen-square': PenSquare,
@@ -271,6 +279,7 @@ export default {
   'switch-horizontal-right-left': SwitchHorizontalRightLeft,
   'switch-vertical-down-up': SwitchVerticalDownUp,
   'switch-vertical-up-down': SwitchVerticalUpDown,
+  'table-list': TableList,
   'tag': Tag,
   'three-dots-horizontal': ThreeDotsHorizontal,
   'three-dots-vertical': ThreeDotsVertical,
@@ -282,6 +291,7 @@ export default {
   'user-plus': UserPlus,
   'user-x': UserX,
   'user': User,
+  'users': Users,
   'wallet-money-outline': WalletMoneyOutline,
   'wallet': Wallet,
   'xmark': Xmark
