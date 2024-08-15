@@ -1,7 +1,7 @@
 {
   "name": "elevz-icon",
   "private": false,
-  "version": "0.3.0",
+  "version": "0.4.0",
   "type": "module",
   "files": [
     "dist"
@@ -20,7 +20,7 @@
     "preview": "vite preview",
     "names": "node utils/generateNames"
   },
-  "dependencies": {
+  "peerDependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
