@@ -1,3 +1,18 @@
+# [0.6.0](https://github.com/elevz/elevz-icon/compare/v0.3.0...v0.6.0) (2024-08-15)
+
+
+### Bug Fixes
+
+* version number ([9ff290a](https://github.com/elevz/elevz-icon/commit/9ff290a8744749f0116bd2e66ded3a5c1b88e829))
+
+
+### Features
+
+* Add dashboard, cart, cart full, wallet-money ([3158a58](https://github.com/elevz/elevz-icon/commit/3158a58944f8d0bc7def995334cb3bcec29e38de))
+* add icon money, list, table and users ([348ea9f](https://github.com/elevz/elevz-icon/commit/348ea9fafabffcc0336a69d185134a66c0768aed))
+
+
+
 # [0.3.0](https://github.com/elevz/elevz-icon/compare/v0.2.0...v0.3.0) (2024-08-10)
 
 
