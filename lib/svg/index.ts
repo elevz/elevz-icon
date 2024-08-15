@@ -8,6 +8,8 @@ import AlignJustify from "./align-justify.svg?react";
 import AlignLeft from "./align-left.svg?react";
 import AlignRight from "./align-right.svg?react";
 import AnnotationAlert from "./annotation-alert.svg?react";
+import ArrowCurveLeft from "./arrow-curve-left.svg?react";
+import ArrowCurveRight from "./arrow-curve-right.svg?react";
 import ArrowDownLeft from "./arrow-down-left.svg?react";
 import ArrowDownRight from "./arrow-down-right.svg?react";
 import ArrowDown from "./arrow-down.svg?react";
@@ -17,10 +19,12 @@ import ArrowUpRight from "./arrow-up-right.svg?react";
 import ArrowUp from "./arrow-up.svg?react";
 import ArrowsLeftRight from "./arrows-left-right.svg?react";
 import AtSign from "./at-sign.svg?react";
+import Aws from "./aws.svg?react";
 import Bars from "./bars.svg?react";
 import Bell from "./bell.svg?react";
 import BoltCircle from "./bolt-circle.svg?react";
 import Bookmark from "./bookmark.svg?react";
+import BtcCircle from "./btc-circle.svg?react";
 import CalendarCheck from "./calendar-check.svg?react";
 import CalendarClear from "./calendar-clear.svg?react";
 import CalendarDay from "./calendar-day.svg?react";
@@ -37,6 +41,7 @@ import ChartScatterBubble from "./chart-scatter-bubble.svg?react";
 import ChartSimpleHorizontal from "./chart-simple-horizontal.svg?react";
 import ChartSimple from "./chart-simple.svg?react";
 import ChartWaterfall from "./chart-waterfall.svg?react";
+import Chat from "./chat.svg?react";
 import CheckAll from "./check-all.svg?react";
 import CheckCircle from "./check-circle.svg?react";
 import CheckDouble from "./check-double.svg?react";
@@ -46,27 +51,38 @@ import ChevronDownDouble from "./chevron-down-double.svg?react";
 import ChevronDownLeft from "./chevron-down-left.svg?react";
 import ChevronDownRight from "./chevron-down-right.svg?react";
 import ChevronDown from "./chevron-down.svg?react";
+import ChevronLeftCircle from "./chevron-left-circle.svg?react";
 import ChevronLeftDouble from "./chevron-left-double.svg?react";
 import ChevronLeft from "./chevron-left.svg?react";
 import ChevronRightDouble from "./chevron-right-double.svg?react";
 import ChevronRight from "./chevron-right.svg?react";
 import ChevronSelectorHorizontal from "./chevron-selector-horizontal.svg?react";
 import ChevronSelectorVertical from "./chevron-selector-vertical.svg?react";
+import ChevronSelector from "./chevron-selector.svg?react";
 import ChevronUpDouble from "./chevron-up-double.svg?react";
 import ChevronUpLeft from "./chevron-up-left.svg?react";
 import ChevronUpRight from "./chevron-up-right.svg?react";
 import ChevronUp from "./chevron-up.svg?react";
+import Chronometer from "./chronometer.svg?react";
 import CircleDashed from "./circle-dashed.svg?react";
 import CircleDot from "./circle-dot.svg?react";
 import CircleStop from "./circle-stop.svg?react";
 import CircleXmark from "./circle-xmark.svg?react";
 import Circle from "./circle.svg?react";
+import Clock from "./clock.svg?react";
+import CloseCircle from "./close-circle.svg?react";
+import ConductCode from "./conduct-code.svg?react";
+import Copy from "./copy.svg?react";
 import CreditCard from "./credit-card.svg?react";
+import Currency from "./currency.svg?react";
 import DashboardOutline from "./dashboard-outline.svg?react";
+import Deadline from "./deadline.svg?react";
 import DiamondXmark from "./diamond-xmark.svg?react";
+import Document from "./document.svg?react";
 import DollarCircle from "./dollar-circle.svg?react";
 import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
+import Email from "./email.svg?react";
 import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
@@ -87,10 +103,12 @@ import Flag from "./flag.svg?react";
 import Folder from "./folder.svg?react";
 import Globe from "./globe.svg?react";
 import Grid from "./grid.svg?react";
+import Guard from "./guard.svg?react";
 import Heart from "./heart.svg?react";
 import Home from "./home.svg?react";
 import ImageSquare from "./image-square.svg?react";
 import InfoCircle from "./info-circle.svg?react";
+import Instagram from "./instagram.svg?react";
 import LocationArrow from "./location-arrow.svg?react";
 import LocationCheck from "./location-check.svg?react";
 import LocationCrosshairs from "./location-crosshairs.svg?react";
@@ -105,6 +123,7 @@ import MailOpen from "./mail-open.svg?react";
 import Mail from "./mail.svg?react";
 import MapPin from "./map-pin.svg?react";
 import Map from "./map.svg?react";
+import Menu from "./menu.svg?react";
 import MinusCircle from "./minus-circle.svg?react";
 import MinusSquare from "./minus-square.svg?react";
 import Minus from "./minus.svg?react";
@@ -112,14 +131,19 @@ import Moon from "./moon.svg?react";
 import NetworkWired from "./network-wired.svg?react";
 import PenSquare from "./pen-square.svg?react";
 import Phone from "./phone.svg?react";
+import Pix from "./pix.svg?react";
 import PlusCircle from "./plus-circle.svg?react";
 import Plus from "./plus.svg?react";
 import Printer from "./printer.svg?react";
+import Qrcode from "./qrcode.svg?react";
+import QuestionCircle from "./question-circle.svg?react";
 import SearchAlt1 from "./search-alt-1.svg?react";
 import Settings from "./settings.svg?react";
+import Shield from "./shield.svg?react";
 import ShoppingCartFull from "./shopping-cart-full.svg?react";
 import ShoppingCart from "./shopping-cart.svg?react";
 import SlidersSquare from "./sliders-square.svg?react";
+import Speedometer from "./speedometer.svg?react";
 import Square from "./square.svg?react";
 import Star from "./star.svg?react";
 import Sun from "./sun.svg?react";
@@ -139,6 +163,7 @@ import UserPlus from "./user-plus.svg?react";
 import UserX from "./user-x.svg?react";
 import User from "./user.svg?react";
 import WalletMoneyOutline from "./wallet-money-outline.svg?react";
+import WalletRounded from "./wallet-rounded.svg?react";
 import Wallet from "./wallet.svg?react";
 import Xmark from "./xmark.svg?react";
 
@@ -152,6 +177,8 @@ export default {
   'align-left': AlignLeft,
   'align-right': AlignRight,
   'annotation-alert': AnnotationAlert,
+  'arrow-curve-left': ArrowCurveLeft,
+  'arrow-curve-right': ArrowCurveRight,
   'arrow-down-left': ArrowDownLeft,
   'arrow-down-right': ArrowDownRight,
   'arrow-down': ArrowDown,
@@ -161,10 +188,12 @@ export default {
   'arrow-up': ArrowUp,
   'arrows-left-right': ArrowsLeftRight,
   'at-sign': AtSign,
+  'aws': Aws,
   'bars': Bars,
   'bell': Bell,
   'bolt-circle': BoltCircle,
   'bookmark': Bookmark,
+  'btc-circle': BtcCircle,
   'calendar-check': CalendarCheck,
   'calendar-clear': CalendarClear,
   'calendar-day': CalendarDay,
@@ -181,6 +210,7 @@ export default {
   'chart-simple-horizontal': ChartSimpleHorizontal,
   'chart-simple': ChartSimple,
   'chart-waterfall': ChartWaterfall,
+  'chat': Chat,
   'check-all': CheckAll,
   'check-circle': CheckCircle,
   'check-double': CheckDouble,
@@ -190,27 +220,38 @@ export default {
   'chevron-down-left': ChevronDownLeft,
   'chevron-down-right': ChevronDownRight,
   'chevron-down': ChevronDown,
+  'chevron-left-circle': ChevronLeftCircle,
   'chevron-left-double': ChevronLeftDouble,
   'chevron-left': ChevronLeft,
   'chevron-right-double': ChevronRightDouble,
   'chevron-right': ChevronRight,
   'chevron-selector-horizontal': ChevronSelectorHorizontal,
   'chevron-selector-vertical': ChevronSelectorVertical,
+  'chevron-selector': ChevronSelector,
   'chevron-up-double': ChevronUpDouble,
   'chevron-up-left': ChevronUpLeft,
   'chevron-up-right': ChevronUpRight,
   'chevron-up': ChevronUp,
+  'chronometer': Chronometer,
   'circle-dashed': CircleDashed,
   'circle-dot': CircleDot,
   'circle-stop': CircleStop,
   'circle-xmark': CircleXmark,
   'circle': Circle,
+  'clock': Clock,
+  'close-circle': CloseCircle,
+  'conduct-code': ConductCode,
+  'copy': Copy,
   'credit-card': CreditCard,
+  'currency': Currency,
   'dashboard-outline': DashboardOutline,
+  'deadline': Deadline,
   'diamond-xmark': DiamondXmark,
+  'document': Document,
   'dollar-circle': DollarCircle,
   'dollar': Dollar,
   'dot': Dot,
+  'email': Email,
   'eye-alt': EyeAlt,
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
@@ -231,10 +272,12 @@ export default {
   'folder': Folder,
   'globe': Globe,
   'grid': Grid,
+  'guard': Guard,
   'heart': Heart,
   'home': Home,
   'image-square': ImageSquare,
   'info-circle': InfoCircle,
+  'instagram': Instagram,
   'location-arrow': LocationArrow,
   'location-check': LocationCheck,
   'location-crosshairs': LocationCrosshairs,
@@ -249,6 +292,7 @@ export default {
   'mail': Mail,
   'map-pin': MapPin,
   'map': Map,
+  'menu': Menu,
   'minus-circle': MinusCircle,
   'minus-square': MinusSquare,
   'minus': Minus,
@@ -256,14 +300,19 @@ export default {
   'network-wired': NetworkWired,
   'pen-square': PenSquare,
   'phone': Phone,
+  'pix': Pix,
   'plus-circle': PlusCircle,
   'plus': Plus,
   'printer': Printer,
+  'qrcode': Qrcode,
+  'question-circle': QuestionCircle,
   'search-alt-1': SearchAlt1,
   'settings': Settings,
+  'shield': Shield,
   'shopping-cart-full': ShoppingCartFull,
   'shopping-cart': ShoppingCart,
   'sliders-square': SlidersSquare,
+  'speedometer': Speedometer,
   'square': Square,
   'star': Star,
   'sun': Sun,
@@ -283,6 +332,7 @@ export default {
   'user-x': UserX,
   'user': User,
   'wallet-money-outline': WalletMoneyOutline,
+  'wallet-rounded': WalletRounded,
   'wallet': Wallet,
   'xmark': Xmark
 };
