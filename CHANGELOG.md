@@ -1,3 +1,12 @@
+# [0.9.0](https://github.com/elevz/elevz-icon/compare/v0.8.0...v0.9.0) (2024-08-16)
+
+
+### Features
+
+* update icon name, update docs ([8c16a60](https://github.com/elevz/elevz-icon/commit/8c16a60ba080530c5e48f261fe105821090d3c98))
+
+
+
 # [0.8.0](https://github.com/elevz/elevz-icon/compare/v0.7.0...v0.8.0) (2024-08-16)
 
 
@@ -42,15 +51,6 @@
 ### Features
 
 * add bars and dot ([a779418](https://github.com/elevz/elevz-icon/commit/a7794183578311b40a6c079160c4244cdfc549da))
-
-
-
-# [0.2.0](https://github.com/elevz/elevz-icon/compare/v0.1.1...v0.2.0) (2024-08-05)
-
-
-### Features
-
-* add icons ([1418f42](https://github.com/elevz/elevz-icon/commit/1418f420ce8d53067f6536245e78c792c31b29c9))
 
 
 
