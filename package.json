@@ -1,5 +1,6 @@
 {
   "name": "elevz-icon",
+  "homepage": "https://elevz.github.io/elevz-icon/",
   "private": false,
   "version": "0.6.0",
   "type": "module",
@@ -16,11 +17,13 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "build:docs": "tsc && vite build --config vite.config.docs.ts",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
+    "preview:docs": "vite preview --config vite.config.docs.ts",
     "names": "node utils/generateNames"
   },
-  "peerDependencies": {
+  "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
