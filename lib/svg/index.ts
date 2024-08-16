@@ -48,6 +48,7 @@ import CheckCircle from "./check-circle.svg?react";
 import CheckDouble from "./check-double.svg?react";
 import CheckSquare from "./check-square.svg?react";
 import Check from "./check.svg?react";
+import ChevronDownCircle from "./chevron-down-circle.svg?react";
 import ChevronDownDouble from "./chevron-down-double.svg?react";
 import ChevronDownLeft from "./chevron-down-left.svg?react";
 import ChevronDownRight from "./chevron-down-right.svg?react";
@@ -55,11 +56,13 @@ import ChevronDown from "./chevron-down.svg?react";
 import ChevronLeftCircle from "./chevron-left-circle.svg?react";
 import ChevronLeftDouble from "./chevron-left-double.svg?react";
 import ChevronLeft from "./chevron-left.svg?react";
+import ChevronRightCircle from "./chevron-right-circle.svg?react";
 import ChevronRightDouble from "./chevron-right-double.svg?react";
 import ChevronRight from "./chevron-right.svg?react";
 import ChevronSelectorHorizontal from "./chevron-selector-horizontal.svg?react";
 import ChevronSelectorVertical from "./chevron-selector-vertical.svg?react";
 import ChevronSelector from "./chevron-selector.svg?react";
+import ChevronUpCircle from "./chevron-up-circle.svg?react";
 import ChevronUpDouble from "./chevron-up-double.svg?react";
 import ChevronUpLeft from "./chevron-up-left.svg?react";
 import ChevronUpRight from "./chevron-up-right.svg?react";
@@ -223,6 +226,7 @@ export default {
   'check-double': CheckDouble,
   'check-square': CheckSquare,
   'check': Check,
+  'chevron-down-circle': ChevronDownCircle,
   'chevron-down-double': ChevronDownDouble,
   'chevron-down-left': ChevronDownLeft,
   'chevron-down-right': ChevronDownRight,
@@ -230,11 +234,13 @@ export default {
   'chevron-left-circle': ChevronLeftCircle,
   'chevron-left-double': ChevronLeftDouble,
   'chevron-left': ChevronLeft,
+  'chevron-right-circle': ChevronRightCircle,
   'chevron-right-double': ChevronRightDouble,
   'chevron-right': ChevronRight,
   'chevron-selector-horizontal': ChevronSelectorHorizontal,
   'chevron-selector-vertical': ChevronSelectorVertical,
   'chevron-selector': ChevronSelector,
+  'chevron-up-circle': ChevronUpCircle,
   'chevron-up-double': ChevronUpDouble,
   'chevron-up-left': ChevronUpLeft,
   'chevron-up-right': ChevronUpRight,
