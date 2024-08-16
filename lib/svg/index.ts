@@ -25,6 +25,7 @@ import Bell from "./bell.svg?react";
 import BoltCircle from "./bolt-circle.svg?react";
 import Bookmark from "./bookmark.svg?react";
 import BtcCircle from "./btc-circle.svg?react";
+import Btc from "./btc.svg?react";
 import CalendarCheck from "./calendar-check.svg?react";
 import CalendarClear from "./calendar-clear.svg?react";
 import CalendarDay from "./calendar-day.svg?react";
@@ -76,10 +77,10 @@ import Copy from "./copy.svg?react";
 import CreditCard from "./credit-card.svg?react";
 import Currency from "./currency.svg?react";
 import DashboardOutline from "./dashboard-outline.svg?react";
+import Dashboard from "./dashboard.svg?react";
 import Deadline from "./deadline.svg?react";
 import DiamondXmark from "./diamond-xmark.svg?react";
 import Document from "./document.svg?react";
-import DollarCircle from "./dollar-circle.svg?react";
 import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
 import Email from "./email.svg?react";
@@ -199,6 +200,7 @@ export default {
   'bolt-circle': BoltCircle,
   'bookmark': Bookmark,
   'btc-circle': BtcCircle,
+  'btc': Btc,
   'calendar-check': CalendarCheck,
   'calendar-clear': CalendarClear,
   'calendar-day': CalendarDay,
@@ -250,10 +252,10 @@ export default {
   'credit-card': CreditCard,
   'currency': Currency,
   'dashboard-outline': DashboardOutline,
+  'dashboard': Dashboard,
   'deadline': Deadline,
   'diamond-xmark': DiamondXmark,
   'document': Document,
-  'dollar-circle': DollarCircle,
   'dollar': Dollar,
   'dot': Dot,
   'email': Email,
