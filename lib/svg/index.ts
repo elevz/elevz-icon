@@ -34,6 +34,7 @@ import CalendarLines from "./calendar-lines.svg?react";
 import CalendarWeek from "./calendar-week.svg?react";
 import CalendarXmark from "./calendar-xmark.svg?react";
 import Calendar from "./calendar.svg?react";
+import CartShoppingFast from "./cart-shopping-fast.svg?react";
 import ChartColumn from "./chart-column.svg?react";
 import ChartLineUp from "./chart-line-up.svg?react";
 import ChartLine from "./chart-line.svg?react";
@@ -73,6 +74,7 @@ import CircleDot from "./circle-dot.svg?react";
 import CircleStop from "./circle-stop.svg?react";
 import CircleXmark from "./circle-xmark.svg?react";
 import Circle from "./circle.svg?react";
+import ClockLines from "./clock-lines.svg?react";
 import Clock from "./clock.svg?react";
 import CloseCircle from "./close-circle.svg?react";
 import ConductCode from "./conduct-code.svg?react";
@@ -164,6 +166,7 @@ import ThreeDotsHorizontal from "./three-dots-horizontal.svg?react";
 import ThreeDotsVertical from "./three-dots-vertical.svg?react";
 import TrashBlank from "./trash-blank.svg?react";
 import Trash from "./trash.svg?react";
+import Trophy from "./trophy.svg?react";
 import Unlock from "./unlock.svg?react";
 import UserCheck from "./user-check.svg?react";
 import UserMinus from "./user-minus.svg?react";
@@ -212,6 +215,7 @@ export default {
   'calendar-week': CalendarWeek,
   'calendar-xmark': CalendarXmark,
   'calendar': Calendar,
+  'cart-shopping-fast': CartShoppingFast,
   'chart-column': ChartColumn,
   'chart-line-up': ChartLineUp,
   'chart-line': ChartLine,
@@ -251,6 +255,7 @@ export default {
   'circle-stop': CircleStop,
   'circle-xmark': CircleXmark,
   'circle': Circle,
+  'clock-lines': ClockLines,
   'clock': Clock,
   'close-circle': CloseCircle,
   'conduct-code': ConductCode,
@@ -342,6 +347,7 @@ export default {
   'three-dots-vertical': ThreeDotsVertical,
   'trash-blank': TrashBlank,
   'trash': Trash,
+  'trophy': Trophy,
   'unlock': Unlock,
   'user-check': UserCheck,
   'user-minus': UserMinus,
