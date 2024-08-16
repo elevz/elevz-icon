@@ -1,8 +1,15 @@
+import { useEffect, useState } from 'react';
 import Icon from '../lib/Icon'
 import icons from '../lib/svg'
-import './App.css'
+import './App.css';
+
+const iconList = Object.keys(icons).sort();
 
 function App() {
+  const [list, setList] = useState(iconList);
+  const [term, setTerm] = useState<string>();
+  const [copied, setCopied] = useState<string>();
+
   function copyToClipboard(text: string) {
     const textarea = document.createElement('textarea');
     textarea.value = text;
@@ -10,16 +17,43 @@ function App() {
     textarea.select();
     document.execCommand('copy');
     document.body.removeChild(textarea);
+    setCopied(text);
+
+    setTimeout(() => {
+      setCopied(undefined);
+    }, 500);
   };
 
+  useEffect(() => { handleTermChange(term) }, [term])
+
+  function handleTermChange(value?: string) {
+    if (!value) {
+      return setList(iconList);
+    }
+
+    const filter = iconList.filter((name) => name.includes(value));
+
+    setList(filter);
+  }
+
   return (
-    <div className="container">
-      {Object.keys(icons).sort().map((name, i) =>
-        <div key={i} className="icon" onClick={() => copyToClipboard(name)}>
-          <Icon name={name as any} />
-          <span>{name}</span>
-        </div>
-      )}
+    <div className='page'>
+      <div className='search'>
+        <Icon name="search" />
+        <input
+          placeholder="Search Icon"
+          onChange={({ target }) => setTerm(target.value)}
+        />
+      </div>
+
+      <div className="container">
+        {list.map((name, i) =>
+          <div key={i} className="icon" onClick={() => copyToClipboard(name)} data-copy={String(copied === name)}>
+            <Icon name={name as any} />
+            <span>{name}</span>
+          </div>
+        )}
+      </div>
     </div>
   )
 }

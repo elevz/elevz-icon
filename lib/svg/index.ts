@@ -146,7 +146,7 @@ import Plus from "./plus.svg?react";
 import Printer from "./printer.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
-import SearchAlt1 from "./search-alt-1.svg?react";
+import Search from "./search.svg?react";
 import Settings from "./settings.svg?react";
 import Shield from "./shield.svg?react";
 import ShoppingCartFull from "./shopping-cart-full.svg?react";
@@ -327,7 +327,7 @@ export default {
   'printer': Printer,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
-  'search-alt-1': SearchAlt1,
+  'search': Search,
   'settings': Settings,
   'shield': Shield,
   'shopping-cart-full': ShoppingCartFull,
