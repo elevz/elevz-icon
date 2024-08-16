@@ -1,3 +1,12 @@
+# [0.8.0](https://github.com/elevz/elevz-icon/compare/v0.7.0...v0.8.0) (2024-08-16)
+
+
+### Features
+
+* Added new icons ([b503c8a](https://github.com/elevz/elevz-icon/commit/b503c8a950e7a076528b1fd59cd9fbfe2d338ddb))
+
+
+
 # [0.7.0](https://github.com/elevz/elevz-icon/compare/v0.6.0...v0.7.0) (2024-08-16)
 
 
@@ -42,15 +51,6 @@
 ### Features
 
 * add icons ([1418f42](https://github.com/elevz/elevz-icon/commit/1418f420ce8d53067f6536245e78c792c31b29c9))
-
-
-
-## [0.1.1](https://github.com/elevz/elevz-icon/compare/v0.1.0...v0.1.1) (2024-08-05)
-
-
-### Bug Fixes
-
-* exports package json ([a9f41a3](https://github.com/elevz/elevz-icon/commit/a9f41a3dbd4afc03cbe34df817a7e0e869de5f51))
 
 
 
