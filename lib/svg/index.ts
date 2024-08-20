@@ -72,7 +72,6 @@ import ChevronUp from "./chevron-up.svg?react";
 import Chronometer from "./chronometer.svg?react";
 import CircleDashed from "./circle-dashed.svg?react";
 import CircleDot from "./circle-dot.svg?react";
-import CircleStop from "./circle-stop.svg?react";
 import CircleXmark from "./circle-xmark.svg?react";
 import Circle from "./circle.svg?react";
 import ClockLines from "./clock-lines.svg?react";
@@ -85,7 +84,6 @@ import Currency from "./currency.svg?react";
 import DashboardOutline from "./dashboard-outline.svg?react";
 import Dashboard from "./dashboard.svg?react";
 import Deadline from "./deadline.svg?react";
-import DiamondXmark from "./diamond-xmark.svg?react";
 import Document from "./document.svg?react";
 import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
@@ -258,7 +256,6 @@ export default {
   'chronometer': Chronometer,
   'circle-dashed': CircleDashed,
   'circle-dot': CircleDot,
-  'circle-stop': CircleStop,
   'circle-xmark': CircleXmark,
   'circle': Circle,
   'clock-lines': ClockLines,
@@ -271,7 +268,6 @@ export default {
   'dashboard-outline': DashboardOutline,
   'dashboard': Dashboard,
   'deadline': Deadline,
-  'diamond-xmark': DiamondXmark,
   'document': Document,
   'dollar': Dollar,
   'dot': Dot,
