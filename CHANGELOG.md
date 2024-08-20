@@ -1,3 +1,12 @@
+# [0.10.0](https://github.com/elevz/elevz-icon/compare/v0.9.1...v0.10.0) (2024-08-20)
+
+
+### Features
+
+* remove icons ([5ad3542](https://github.com/elevz/elevz-icon/commit/5ad35424e60f61e328af8227669cfd2059f8fc64))
+
+
+
 ## [0.9.1](https://github.com/elevz/elevz-icon/compare/v0.9.0...v0.9.1) (2024-08-16)
 
 
@@ -36,21 +45,6 @@
 ### Features
 
 * add chevron circle icons ([7bc54a3](https://github.com/elevz/elevz-icon/commit/7bc54a3b359fb9573ec3254d5d34fbc3978f9bf8))
-
-
-
-# [0.6.0](https://github.com/elevz/elevz-icon/compare/v0.3.0...v0.6.0) (2024-08-15)
-
-
-### Bug Fixes
-
-* version number ([9ff290a](https://github.com/elevz/elevz-icon/commit/9ff290a8744749f0116bd2e66ded3a5c1b88e829))
-
-
-### Features
-
-* Add dashboard, cart, cart full, wallet-money ([3158a58](https://github.com/elevz/elevz-icon/commit/3158a58944f8d0bc7def995334cb3bcec29e38de))
-* add icon money, list, table and users ([348ea9f](https://github.com/elevz/elevz-icon/commit/348ea9fafabffcc0336a69d185134a66c0768aed))
 
 
 
