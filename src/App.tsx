@@ -31,7 +31,7 @@ function App() {
       return setList(iconList);
     }
 
-    const filter = iconList.filter((name) => name.includes(value));
+    const filter = iconList.filter((name) => name.includes(value.toLowerCase()));
 
     setList(filter);
   }

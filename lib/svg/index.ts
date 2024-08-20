@@ -20,6 +20,7 @@ import ArrowUp from "./arrow-up.svg?react";
 import ArrowsLeftRight from "./arrows-left-right.svg?react";
 import AtSign from "./at-sign.svg?react";
 import Aws from "./aws.svg?react";
+import Bank from "./bank.svg?react";
 import Bars from "./bars.svg?react";
 import Bell from "./bell.svg?react";
 import BoltCircle from "./bolt-circle.svg?react";
@@ -89,6 +90,7 @@ import Document from "./document.svg?react";
 import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
 import Email from "./email.svg?react";
+import Euro from "./euro.svg?react";
 import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
@@ -146,6 +148,9 @@ import Plus from "./plus.svg?react";
 import Printer from "./printer.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
+import ReceiptAlt from "./receipt-alt.svg?react";
+import ReceiptLong from "./receipt-long.svg?react";
+import Receipt from "./receipt.svg?react";
 import Search from "./search.svg?react";
 import Settings from "./settings.svg?react";
 import Shield from "./shield.svg?react";
@@ -201,6 +206,7 @@ export default {
   'arrows-left-right': ArrowsLeftRight,
   'at-sign': AtSign,
   'aws': Aws,
+  'bank': Bank,
   'bars': Bars,
   'bell': Bell,
   'bolt-circle': BoltCircle,
@@ -270,6 +276,7 @@ export default {
   'dollar': Dollar,
   'dot': Dot,
   'email': Email,
+  'euro': Euro,
   'eye-alt': EyeAlt,
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
@@ -327,6 +334,9 @@ export default {
   'printer': Printer,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
+  'receipt-alt': ReceiptAlt,
+  'receipt-long': ReceiptLong,
+  'receipt': Receipt,
   'search': Search,
   'settings': Settings,
   'shield': Shield,
