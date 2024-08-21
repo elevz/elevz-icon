@@ -115,6 +115,8 @@ import Home from "./home.svg?react";
 import ImageSquare from "./image-square.svg?react";
 import InfoCircle from "./info-circle.svg?react";
 import Instagram from "./instagram.svg?react";
+import KeyAlt from "./key-alt.svg?react";
+import Key from "./key.svg?react";
 import ListSquare from "./list-square.svg?react";
 import LocationArrow from "./location-arrow.svg?react";
 import LocationCheck from "./location-check.svg?react";
@@ -151,6 +153,7 @@ import ReceiptLong from "./receipt-long.svg?react";
 import Receipt from "./receipt.svg?react";
 import Search from "./search.svg?react";
 import Settings from "./settings.svg?react";
+import ShieldKeyhole from "./shield-keyhole.svg?react";
 import Shield from "./shield.svg?react";
 import ShoppingCartFull from "./shopping-cart-full.svg?react";
 import ShoppingCart from "./shopping-cart.svg?react";
@@ -165,6 +168,7 @@ import SwitchVerticalDownUp from "./switch-vertical-down-up.svg?react";
 import SwitchVerticalUpDown from "./switch-vertical-up-down.svg?react";
 import TableList from "./table-list.svg?react";
 import Tag from "./tag.svg?react";
+import Tags from "./tags.svg?react";
 import ThreeDotsHorizontal from "./three-dots-horizontal.svg?react";
 import ThreeDotsVertical from "./three-dots-vertical.svg?react";
 import TrashBlank from "./trash-blank.svg?react";
@@ -299,6 +303,8 @@ export default {
   'image-square': ImageSquare,
   'info-circle': InfoCircle,
   'instagram': Instagram,
+  'key-alt': KeyAlt,
+  'key': Key,
   'list-square': ListSquare,
   'location-arrow': LocationArrow,
   'location-check': LocationCheck,
@@ -335,6 +341,7 @@ export default {
   'receipt': Receipt,
   'search': Search,
   'settings': Settings,
+  'shield-keyhole': ShieldKeyhole,
   'shield': Shield,
   'shopping-cart-full': ShoppingCartFull,
   'shopping-cart': ShoppingCart,
@@ -349,6 +356,7 @@ export default {
   'switch-vertical-up-down': SwitchVerticalUpDown,
   'table-list': TableList,
   'tag': Tag,
+  'tags': Tags,
   'three-dots-horizontal': ThreeDotsHorizontal,
   'three-dots-vertical': ThreeDotsVertical,
   'trash-blank': TrashBlank,
