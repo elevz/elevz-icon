@@ -156,11 +156,11 @@ import Search from "./search.svg?react";
 import Settings from "./settings.svg?react";
 import ShieldKeyhole from "./shield-keyhole.svg?react";
 import Shield from "./shield.svg?react";
-import ShoppingCartArrowDown from "./shopping-cart-arrow-down.svg?react";
-import ShoppingCartArrowUp from "./shopping-cart-arrow-up.svg?react";
 import ShoppingCartCheck from "./shopping-cart-check.svg?react";
 import ShoppingCartFast from "./shopping-cart-fast.svg?react";
+import ShoppingCartIn from "./shopping-cart-in.svg?react";
 import ShoppingCartMinus from "./shopping-cart-minus.svg?react";
+import ShoppingCartOut from "./shopping-cart-out.svg?react";
 import ShoppingCartPlus from "./shopping-cart-plus.svg?react";
 import ShoppingCartRemove from "./shopping-cart-remove.svg?react";
 import ShoppingCart from "./shopping-cart.svg?react";
@@ -351,11 +351,11 @@ export default {
   'settings': Settings,
   'shield-keyhole': ShieldKeyhole,
   'shield': Shield,
-  'shopping-cart-arrow-down': ShoppingCartArrowDown,
-  'shopping-cart-arrow-up': ShoppingCartArrowUp,
   'shopping-cart-check': ShoppingCartCheck,
   'shopping-cart-fast': ShoppingCartFast,
+  'shopping-cart-in': ShoppingCartIn,
   'shopping-cart-minus': ShoppingCartMinus,
+  'shopping-cart-out': ShoppingCartOut,
   'shopping-cart-plus': ShoppingCartPlus,
   'shopping-cart-remove': ShoppingCartRemove,
   'shopping-cart': ShoppingCart,
