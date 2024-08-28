@@ -1,3 +1,17 @@
+# [0.11.0](https://github.com/elevz/elevz-icon/compare/v0.10.0...v0.11.0) (2024-08-28)
+
+
+### Bug Fixes
+
+* update release action ([e9d77af](https://github.com/elevz/elevz-icon/commit/e9d77afcf90053584300c5500336c0cc15434461))
+
+
+### Features
+
+* add key icons ([2eb79f7](https://github.com/elevz/elevz-icon/commit/2eb79f7b1871f52ce4da6999cb29e866b061cfd1))
+
+
+
 # [0.10.0](https://github.com/elevz/elevz-icon/compare/v0.9.1...v0.10.0) (2024-08-20)
 
 
@@ -31,20 +45,6 @@
 ### Features
 
 * Added new icons ([b503c8a](https://github.com/elevz/elevz-icon/commit/b503c8a950e7a076528b1fd59cd9fbfe2d338ddb))
-
-
-
-# [0.7.0](https://github.com/elevz/elevz-icon/compare/v0.6.0...v0.7.0) (2024-08-16)
-
-
-### Bug Fixes
-
-* update icons styles ([55d9052](https://github.com/elevz/elevz-icon/commit/55d9052ac55a60fb03ba481b1f9286e47e329fa3))
-
-
-### Features
-
-* add chevron circle icons ([7bc54a3](https://github.com/elevz/elevz-icon/commit/7bc54a3b359fb9573ec3254d5d34fbc3978f9bf8))
 
 
 
