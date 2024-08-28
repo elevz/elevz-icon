@@ -35,7 +35,6 @@ import CalendarLines from "./calendar-lines.svg?react";
 import CalendarWeek from "./calendar-week.svg?react";
 import CalendarXmark from "./calendar-xmark.svg?react";
 import Calendar from "./calendar.svg?react";
-import CartShoppingFast from "./cart-shopping-fast.svg?react";
 import ChartColumn from "./chart-column.svg?react";
 import ChartLineUp from "./chart-line-up.svg?react";
 import ChartLine from "./chart-line.svg?react";
@@ -146,16 +145,24 @@ import Pix from "./pix.svg?react";
 import PlusCircle from "./plus-circle.svg?react";
 import Plus from "./plus.svg?react";
 import Printer from "./printer.svg?react";
+import Prize from "./prize.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
 import ReceiptAlt from "./receipt-alt.svg?react";
 import ReceiptLong from "./receipt-long.svg?react";
 import Receipt from "./receipt.svg?react";
+import Refresh from "./refresh.svg?react";
 import Search from "./search.svg?react";
 import Settings from "./settings.svg?react";
 import ShieldKeyhole from "./shield-keyhole.svg?react";
 import Shield from "./shield.svg?react";
-import ShoppingCartFull from "./shopping-cart-full.svg?react";
+import ShoppingCartCheck from "./shopping-cart-check.svg?react";
+import ShoppingCartFast from "./shopping-cart-fast.svg?react";
+import ShoppingCartIn from "./shopping-cart-in.svg?react";
+import ShoppingCartMinus from "./shopping-cart-minus.svg?react";
+import ShoppingCartOut from "./shopping-cart-out.svg?react";
+import ShoppingCartPlus from "./shopping-cart-plus.svg?react";
+import ShoppingCartRemove from "./shopping-cart-remove.svg?react";
 import ShoppingCart from "./shopping-cart.svg?react";
 import SlidersSquare from "./sliders-square.svg?react";
 import Speedometer from "./speedometer.svg?react";
@@ -223,7 +230,6 @@ export default {
   'calendar-week': CalendarWeek,
   'calendar-xmark': CalendarXmark,
   'calendar': Calendar,
-  'cart-shopping-fast': CartShoppingFast,
   'chart-column': ChartColumn,
   'chart-line-up': ChartLineUp,
   'chart-line': ChartLine,
@@ -334,16 +340,24 @@ export default {
   'plus-circle': PlusCircle,
   'plus': Plus,
   'printer': Printer,
+  'prize': Prize,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
   'receipt-alt': ReceiptAlt,
   'receipt-long': ReceiptLong,
   'receipt': Receipt,
+  'refresh': Refresh,
   'search': Search,
   'settings': Settings,
   'shield-keyhole': ShieldKeyhole,
   'shield': Shield,
-  'shopping-cart-full': ShoppingCartFull,
+  'shopping-cart-check': ShoppingCartCheck,
+  'shopping-cart-fast': ShoppingCartFast,
+  'shopping-cart-in': ShoppingCartIn,
+  'shopping-cart-minus': ShoppingCartMinus,
+  'shopping-cart-out': ShoppingCartOut,
+  'shopping-cart-plus': ShoppingCartPlus,
+  'shopping-cart-remove': ShoppingCartRemove,
   'shopping-cart': ShoppingCart,
   'sliders-square': SlidersSquare,
   'speedometer': Speedometer,
