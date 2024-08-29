@@ -1,3 +1,12 @@
+## [0.11.1](https://github.com/elevz/elevz-icon/compare/v0.11.0...v0.11.1) (2024-08-29)
+
+
+### Bug Fixes
+
+* add stroke arrow curve ([cf4f70a](https://github.com/elevz/elevz-icon/commit/cf4f70a9cc8e2c6f9c834079acf20fe602f598c4))
+
+
+
 # [0.11.0](https://github.com/elevz/elevz-icon/compare/v0.10.0...v0.11.0) (2024-08-28)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * update icon name, update docs ([8c16a60](https://github.com/elevz/elevz-icon/commit/8c16a60ba080530c5e48f261fe105821090d3c98))
-
-
-
-# [0.8.0](https://github.com/elevz/elevz-icon/compare/v0.7.0...v0.8.0) (2024-08-16)
-
-
-### Features
-
-* Added new icons ([b503c8a](https://github.com/elevz/elevz-icon/commit/b503c8a950e7a076528b1fd59cd9fbfe2d338ddb))
 
 
 
