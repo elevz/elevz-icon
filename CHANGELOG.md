@@ -1,3 +1,12 @@
+# [0.12.0](https://github.com/elevz/elevz-icon/compare/v0.11.1...v0.12.0) (2024-09-25)
+
+
+### Features
+
+* add question icon ([0cf004c](https://github.com/elevz/elevz-icon/commit/0cf004c9d4d879f22056b1fb19f7ba922c406676))
+
+
+
 ## [0.11.1](https://github.com/elevz/elevz-icon/compare/v0.11.0...v0.11.1) (2024-08-29)
 
 
@@ -36,15 +45,6 @@
 ### Bug Fixes
 
 * build ([90acf57](https://github.com/elevz/elevz-icon/commit/90acf5788bf876e3c32d566e1681d2a0d3cf1bfc))
-
-
-
-# [0.9.0](https://github.com/elevz/elevz-icon/compare/v0.8.0...v0.9.0) (2024-08-16)
-
-
-### Features
-
-* update icon name, update docs ([8c16a60](https://github.com/elevz/elevz-icon/commit/8c16a60ba080530c5e48f261fe105821090d3c98))
 
 
 
