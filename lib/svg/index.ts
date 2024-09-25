@@ -148,6 +148,7 @@ import Printer from "./printer.svg?react";
 import Prize from "./prize.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
+import Question from "./question.svg?react";
 import ReceiptAlt from "./receipt-alt.svg?react";
 import ReceiptLong from "./receipt-long.svg?react";
 import Receipt from "./receipt.svg?react";
@@ -343,6 +344,7 @@ export default {
   'prize': Prize,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
+  'question': Question,
   'receipt-alt': ReceiptAlt,
   'receipt-long': ReceiptLong,
   'receipt': Receipt,
