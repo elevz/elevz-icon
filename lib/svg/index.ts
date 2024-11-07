@@ -146,6 +146,7 @@ import PlusCircle from "./plus-circle.svg?react";
 import Plus from "./plus.svg?react";
 import Printer from "./printer.svg?react";
 import Prize from "./prize.svg?react";
+import Product from "./product.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
 import Question from "./question.svg?react";
@@ -342,6 +343,7 @@ export default {
   'plus': Plus,
   'printer': Printer,
   'prize': Prize,
+  'product': Product,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
   'question': Question,
