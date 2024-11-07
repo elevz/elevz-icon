@@ -1,3 +1,12 @@
+# [0.13.0](https://github.com/elevz/elevz-icon/compare/v0.12.0...v0.13.0) (2024-11-07)
+
+
+### Features
+
+* add product icon ([333da21](https://github.com/elevz/elevz-icon/commit/333da21587a764f01d6679073a7d2ff7578f2de2))
+
+
+
 # [0.12.0](https://github.com/elevz/elevz-icon/compare/v0.11.1...v0.12.0) (2024-09-25)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * remove icons ([5ad3542](https://github.com/elevz/elevz-icon/commit/5ad35424e60f61e328af8227669cfd2059f8fc64))
-
-
-
-## [0.9.1](https://github.com/elevz/elevz-icon/compare/v0.9.0...v0.9.1) (2024-08-16)
-
-
-### Bug Fixes
-
-* build ([90acf57](https://github.com/elevz/elevz-icon/commit/90acf5788bf876e3c32d566e1681d2a0d3cf1bfc))
 
 
 
