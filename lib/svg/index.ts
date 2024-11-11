@@ -88,6 +88,7 @@ import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
 import Email from "./email.svg?react";
 import Euro from "./euro.svg?react";
+import Exclamation from "./exclamation.svg?react";
 import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
@@ -285,6 +286,7 @@ export default {
   'dot': Dot,
   'email': Email,
   'euro': Euro,
+  'exclamation': Exclamation,
   'eye-alt': EyeAlt,
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
