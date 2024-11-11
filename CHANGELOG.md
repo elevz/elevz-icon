@@ -1,3 +1,12 @@
+# [0.14.0](https://github.com/elevz/elevz-icon/compare/v0.13.0...v0.14.0) (2024-11-11)
+
+
+### Features
+
+* add exclamation icon ([e571dab](https://github.com/elevz/elevz-icon/commit/e571dab5f592be75ebfed122a57884a49dde7ba6))
+
+
+
 # [0.13.0](https://github.com/elevz/elevz-icon/compare/v0.12.0...v0.13.0) (2024-11-07)
 
 
@@ -36,15 +45,6 @@
 ### Features
 
 * add key icons ([2eb79f7](https://github.com/elevz/elevz-icon/commit/2eb79f7b1871f52ce4da6999cb29e866b061cfd1))
-
-
-
-# [0.10.0](https://github.com/elevz/elevz-icon/compare/v0.9.1...v0.10.0) (2024-08-20)
-
-
-### Features
-
-* remove icons ([5ad3542](https://github.com/elevz/elevz-icon/commit/5ad35424e60f61e328af8227669cfd2059f8fc64))
 
 
 
