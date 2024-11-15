@@ -19,12 +19,18 @@ body {
   padding: 20px;
 }
 
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+  gap: 10px;
+}
+
 .search {
-  align-self: center;
   display: flex;
   background-color: white;
-  /* background-color: #896e9c; */
-  margin-bottom: 20px;
   min-width: 20rem;
   border-radius: 4px;
   padding: 8px 6px;
@@ -35,6 +41,31 @@ body {
   background-color: transparent;
   border: none;
   outline: none;
+}
+
+input[type="color"] {
+  --webkit-appearance: none;
+  border: none;
+  width: 32px;
+  height: 20px;
+  padding: 0px;
+}
+
+input[type="color"]::-webkit-color-swatch-wrapper {
+  padding: 0;
+}
+
+input[type="color"]::-webkit-color-swatch {
+  border: none;
+}
+
+.pick-color {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border-radius: 4px;
+  padding: 4px;
+  box-shadow: 2px 2px 2px #00000020;
 }
 
 .search svg {

@@ -27,6 +27,7 @@ import BoltCircle from "./bolt-circle.svg?react";
 import Bookmark from "./bookmark.svg?react";
 import BtcCircle from "./btc-circle.svg?react";
 import Btc from "./btc.svg?react";
+import Calculator from "./calculator.svg?react";
 import CalendarCheck from "./calendar-check.svg?react";
 import CalendarClear from "./calendar-clear.svg?react";
 import CalendarDay from "./calendar-day.svg?react";
@@ -78,11 +79,16 @@ import Clock from "./clock.svg?react";
 import CloseCircle from "./close-circle.svg?react";
 import ConductCode from "./conduct-code.svg?react";
 import Copy from "./copy.svg?react";
+import Coupon from "./coupon.svg?react";
 import CreditCard from "./credit-card.svg?react";
 import Currency from "./currency.svg?react";
 import DashboardOutline from "./dashboard-outline.svg?react";
 import Dashboard from "./dashboard.svg?react";
 import Deadline from "./deadline.svg?react";
+import DeliveryCart from "./delivery-cart.svg?react";
+import DeliveryParcel from "./delivery-parcel.svg?react";
+import DeliveryTruckFast from "./delivery-truck-fast.svg?react";
+import DeliveryTruck from "./delivery-truck.svg?react";
 import Document from "./document.svg?react";
 import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
@@ -132,6 +138,7 @@ import MailOpen from "./mail-open.svg?react";
 import Mail from "./mail.svg?react";
 import MapPin from "./map-pin.svg?react";
 import Map from "./map.svg?react";
+import Math from "./math.svg?react";
 import Menu from "./menu.svg?react";
 import MinusCircle from "./minus-circle.svg?react";
 import MinusSquare from "./minus-square.svg?react";
@@ -145,6 +152,8 @@ import Phone from "./phone.svg?react";
 import Pix from "./pix.svg?react";
 import PlusCircle from "./plus-circle.svg?react";
 import Plus from "./plus.svg?react";
+import PriceTagAlt from "./price-tag-alt.svg?react";
+import PriceTag from "./price-tag.svg?react";
 import Printer from "./printer.svg?react";
 import Prize from "./prize.svg?react";
 import Product from "./product.svg?react";
@@ -225,6 +234,7 @@ export default {
   'bookmark': Bookmark,
   'btc-circle': BtcCircle,
   'btc': Btc,
+  'calculator': Calculator,
   'calendar-check': CalendarCheck,
   'calendar-clear': CalendarClear,
   'calendar-day': CalendarDay,
@@ -276,11 +286,16 @@ export default {
   'close-circle': CloseCircle,
   'conduct-code': ConductCode,
   'copy': Copy,
+  'coupon': Coupon,
   'credit-card': CreditCard,
   'currency': Currency,
   'dashboard-outline': DashboardOutline,
   'dashboard': Dashboard,
   'deadline': Deadline,
+  'delivery-cart': DeliveryCart,
+  'delivery-parcel': DeliveryParcel,
+  'delivery-truck-fast': DeliveryTruckFast,
+  'delivery-truck': DeliveryTruck,
   'document': Document,
   'dollar': Dollar,
   'dot': Dot,
@@ -330,6 +345,7 @@ export default {
   'mail': Mail,
   'map-pin': MapPin,
   'map': Map,
+  'math': Math,
   'menu': Menu,
   'minus-circle': MinusCircle,
   'minus-square': MinusSquare,
@@ -343,6 +359,8 @@ export default {
   'pix': Pix,
   'plus-circle': PlusCircle,
   'plus': Plus,
+  'price-tag-alt': PriceTagAlt,
+  'price-tag': PriceTag,
   'printer': Printer,
   'prize': Prize,
   'product': Product,
