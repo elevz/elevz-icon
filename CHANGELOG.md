@@ -1,3 +1,12 @@
+# [0.18.0](https://github.com/elevz/elevz-icon/compare/v0.17.0...v0.18.0) (2024-11-27)
+
+
+### Features
+
+* Remove duplicates ([d28448d](https://github.com/elevz/elevz-icon/commit/d28448d5a8d226ac6bf6d0be942d70b47d52800c))
+
+
+
 # [0.17.0](https://github.com/elevz/elevz-icon/compare/v0.16.0...v0.17.0) (2024-11-27)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add exclamation icon ([e571dab](https://github.com/elevz/elevz-icon/commit/e571dab5f592be75ebfed122a57884a49dde7ba6))
-
-
-
-# [0.13.0](https://github.com/elevz/elevz-icon/compare/v0.12.0...v0.13.0) (2024-11-07)
-
-
-### Features
-
-* add product icon ([333da21](https://github.com/elevz/elevz-icon/commit/333da21587a764f01d6679073a7d2ff7578f2de2))
 
 
 
