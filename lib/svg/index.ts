@@ -1,4 +1,5 @@
 /// <reference types="vite-plugin-svgr/client" />
+import AccountUserPlus from "./account-user-plus.svg?react";
 import AddressBook from "./address-book.svg?react";
 import AddressCard from "./address-card.svg?react";
 import AlertCircle from "./alert-circle.svg?react";
@@ -13,6 +14,7 @@ import ArrowCurveRight from "./arrow-curve-right.svg?react";
 import ArrowDownLeft from "./arrow-down-left.svg?react";
 import ArrowDownRight from "./arrow-down-right.svg?react";
 import ArrowDown from "./arrow-down.svg?react";
+import ArrowLeftBold from "./arrow-left-bold.svg?react";
 import ArrowLeft from "./arrow-left.svg?react";
 import ArrowUpLeft from "./arrow-up-left.svg?react";
 import ArrowUpRight from "./arrow-up-right.svg?react";
@@ -20,13 +22,17 @@ import ArrowUp from "./arrow-up.svg?react";
 import ArrowsLeftRight from "./arrows-left-right.svg?react";
 import AtSign from "./at-sign.svg?react";
 import Aws from "./aws.svg?react";
+import Ban from "./ban.svg?react";
 import Bank from "./bank.svg?react";
+import BarcodeScan from "./barcode-scan.svg?react";
 import Bars from "./bars.svg?react";
 import Bell from "./bell.svg?react";
 import BoltCircle from "./bolt-circle.svg?react";
 import Bookmark from "./bookmark.svg?react";
 import BtcCircle from "./btc-circle.svg?react";
 import Btc from "./btc.svg?react";
+import CalculatorVariantOutline from "./calculator-variant-outline.svg?react";
+import Calculator from "./calculator.svg?react";
 import CalendarCheck from "./calendar-check.svg?react";
 import CalendarClear from "./calendar-clear.svg?react";
 import CalendarDay from "./calendar-day.svg?react";
@@ -35,6 +41,17 @@ import CalendarLines from "./calendar-lines.svg?react";
 import CalendarWeek from "./calendar-week.svg?react";
 import CalendarXmark from "./calendar-xmark.svg?react";
 import Calendar from "./calendar.svg?react";
+import Cancel from "./cancel.svg?react";
+import CardAccountDetailsOutline from "./card-account-details-outline.svg?react";
+import CartArrowRight from "./cart-arrow-right.svg?react";
+import CartAwaiting from "./cart-awaiting.svg?react";
+import CartCheck from "./cart-check.svg?react";
+import CartHeart from "./cart-heart.svg?react";
+import CartRemove from "./cart-remove.svg?react";
+import Cart from "./cart.svg?react";
+import CashMultiple from "./cash-multiple.svg?react";
+import CashRegister from "./cash-register.svg?react";
+import ChartAreaspline from "./chart-areaspline.svg?react";
 import ChartColumn from "./chart-column.svg?react";
 import ChartLineUp from "./chart-line-up.svg?react";
 import ChartLine from "./chart-line.svg?react";
@@ -76,9 +93,16 @@ import Circle from "./circle.svg?react";
 import ClockLines from "./clock-lines.svg?react";
 import Clock from "./clock.svg?react";
 import CloseCircle from "./close-circle.svg?react";
+import CloudPrintOutline from "./cloud-print-outline.svg?react";
+import CommentTextOutline from "./comment-text-outline.svg?react";
 import ConductCode from "./conduct-code.svg?react";
+import ContentSaveCheckOutline from "./content-save-check-outline.svg?react";
 import Copy from "./copy.svg?react";
+import CreditCardMultipleOutline from "./credit-card-multiple-outline.svg?react";
+import CreditCardMultiple from "./credit-card-multiple.svg?react";
 import CreditCard from "./credit-card.svg?react";
+import CurrencyBrl from "./currency-brl.svg?react";
+import CurrencyUsd from "./currency-usd.svg?react";
 import Currency from "./currency.svg?react";
 import DashboardOutline from "./dashboard-outline.svg?react";
 import Dashboard from "./dashboard.svg?react";
@@ -92,6 +116,7 @@ import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
 import Eye from "./eye.svg?react";
+import FeatureSearchOutline from "./feature-search-outline.svg?react";
 import FileBlock from "./file-block.svg?react";
 import FileCheck from "./file-check.svg?react";
 import FileDownload from "./file-download.svg?react";
@@ -104,11 +129,15 @@ import FileUpload from "./file-upload.svg?react";
 import File from "./file.svg?react";
 import FilterXmark from "./filter-xmark.svg?react";
 import Filter from "./filter.svg?react";
+import Finance from "./finance.svg?react";
 import Flag from "./flag.svg?react";
+import FolderOpen from "./folder-open.svg?react";
 import Folder from "./folder.svg?react";
+import FormatListBulleted from "./format-list-bulleted.svg?react";
 import Globe from "./globe.svg?react";
 import Grid from "./grid.svg?react";
 import Guard from "./guard.svg?react";
+import HandCoinOutline from "./hand-coin-outline.svg?react";
 import Heart from "./heart.svg?react";
 import Home from "./home.svg?react";
 import ImageSquare from "./image-square.svg?react";
@@ -116,6 +145,7 @@ import InfoCircle from "./info-circle.svg?react";
 import Instagram from "./instagram.svg?react";
 import KeyAlt from "./key-alt.svg?react";
 import Key from "./key.svg?react";
+import LineScan from "./line-scan.svg?react";
 import ListSquare from "./list-square.svg?react";
 import LocationArrow from "./location-arrow.svg?react";
 import LocationCheck from "./location-check.svg?react";
@@ -127,11 +157,19 @@ import LocationPin from "./location-pin.svg?react";
 import Lock from "./lock.svg?react";
 import Login from "./login.svg?react";
 import Logout from "./logout.svg?react";
+import Magnify from "./magnify.svg?react";
 import MailOpen from "./mail-open.svg?react";
 import Mail from "./mail.svg?react";
+import MapMarkerMinusOutline from "./map-marker-minus-outline.svg?react";
+import MapMarkerPlusOutline from "./map-marker-plus-outline.svg?react";
+import MapMarkerRadiusOutline from "./map-marker-radius-outline.svg?react";
+import MapMarkerRemoveOutline from "./map-marker-remove-outline.svg?react";
+import MapMarkerStarOutline from "./map-marker-star-outline.svg?react";
 import MapPin from "./map-pin.svg?react";
 import Map from "./map.svg?react";
+import MenuCircle from "./menu-circle.svg?react";
 import Menu from "./menu.svg?react";
+import MinusCircleOutline from "./minus-circle-outline.svg?react";
 import MinusCircle from "./minus-circle.svg?react";
 import MinusSquare from "./minus-square.svg?react";
 import Minus from "./minus.svg?react";
@@ -139,17 +177,36 @@ import MoneyBill from "./money-bill.svg?react";
 import MoneyInsert from "./money-insert.svg?react";
 import Moon from "./moon.svg?react";
 import NetworkWired from "./network-wired.svg?react";
+import Numeric from "./numeric.svg?react";
 import PenSquare from "./pen-square.svg?react";
+import PencilOutline from "./pencil-outline.svg?react";
 import Phone from "./phone.svg?react";
 import Pix from "./pix.svg?react";
 import PlusCircle from "./plus-circle.svg?react";
 import Plus from "./plus.svg?react";
+import PrinterOutline from "./printer-outline.svg?react";
+import PrinterPosAlertOutline from "./printer-pos-alert-outline.svg?react";
+import PrinterPosCheckOutline from "./printer-pos-check-outline.svg?react";
+import PrinterPosCogOutline from "./printer-pos-cog-outline.svg?react";
+import PrinterPosPlusOutline from "./printer-pos-plus-outline.svg?react";
+import PrinterPosRefreshOutline from "./printer-pos-refresh-outline.svg?react";
+import PrinterPosRemoveOutline from "./printer-pos-remove-outline.svg?react";
+import PrinterPosStopOutline from "./printer-pos-stop-outline.svg?react";
+import PrinterPosSyncOutline from "./printer-pos-sync-outline.svg?react";
+import PrinterPosWrenchOutline from "./printer-pos-wrench-outline.svg?react";
 import Printer from "./printer.svg?react";
 import Prize from "./prize.svg?react";
+import QrcodeScan from "./qrcode-scan.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
 import ReceiptAlt from "./receipt-alt.svg?react";
 import ReceiptLong from "./receipt-long.svg?react";
+import ReceiptTextClockOutline from "./receipt-text-clock-outline.svg?react";
+import ReceiptTextEditOutline from "./receipt-text-edit-outline.svg?react";
+import ReceiptTextMinusOutline from "./receipt-text-minus-outline.svg?react";
+import ReceiptTextOutline from "./receipt-text-outline.svg?react";
+import ReceiptTextPlusOutline from "./receipt-text-plus-outline.svg?react";
+import ReceiptTextRemoveOutline from "./receipt-text-remove-outline.svg?react";
 import Receipt from "./receipt.svg?react";
 import Refresh from "./refresh.svg?react";
 import Search from "./search.svg?react";
@@ -167,7 +224,9 @@ import ShoppingCart from "./shopping-cart.svg?react";
 import SlidersSquare from "./sliders-square.svg?react";
 import Speedometer from "./speedometer.svg?react";
 import Square from "./square.svg?react";
+import StarCircleOutline from "./star-circle-outline.svg?react";
 import Star from "./star.svg?react";
+import StickerTextOutline from "./sticker-text-outline.svg?react";
 import Sun from "./sun.svg?react";
 import SwitchHorizontalLeftRight from "./switch-horizontal-left-right.svg?react";
 import SwitchHorizontalRightLeft from "./switch-horizontal-right-left.svg?react";
@@ -178,9 +237,15 @@ import Tag from "./tag.svg?react";
 import Tags from "./tags.svg?react";
 import ThreeDotsHorizontal from "./three-dots-horizontal.svg?react";
 import ThreeDotsVertical from "./three-dots-vertical.svg?react";
+import TicketPercentOutline from "./ticket-percent-outline.svg?react";
+import Ticket from "./ticket.svg?react";
 import TrashBlank from "./trash-blank.svg?react";
 import Trash from "./trash.svg?react";
+import TrendingDown from "./trending-down.svg?react";
+import TrendingUp from "./trending-up.svg?react";
 import Trophy from "./trophy.svg?react";
+import TruckFastOutline from "./truck-fast-outline.svg?react";
+import TruckOutline from "./truck-outline.svg?react";
 import Unlock from "./unlock.svg?react";
 import UserCheck from "./user-check.svg?react";
 import UserMinus from "./user-minus.svg?react";
@@ -194,7 +259,8 @@ import Wallet from "./wallet.svg?react";
 import Xmark from "./xmark.svg?react";
 
 export default {
-    'address-book': AddressBook,
+    'account-user-plus': AccountUserPlus,
+  'address-book': AddressBook,
   'address-card': AddressCard,
   'alert-circle': AlertCircle,
   'alert-square': AlertSquare,
@@ -208,6 +274,7 @@ export default {
   'arrow-down-left': ArrowDownLeft,
   'arrow-down-right': ArrowDownRight,
   'arrow-down': ArrowDown,
+  'arrow-left-bold': ArrowLeftBold,
   'arrow-left': ArrowLeft,
   'arrow-up-left': ArrowUpLeft,
   'arrow-up-right': ArrowUpRight,
@@ -215,13 +282,17 @@ export default {
   'arrows-left-right': ArrowsLeftRight,
   'at-sign': AtSign,
   'aws': Aws,
+  'ban': Ban,
   'bank': Bank,
+  'barcode-scan': BarcodeScan,
   'bars': Bars,
   'bell': Bell,
   'bolt-circle': BoltCircle,
   'bookmark': Bookmark,
   'btc-circle': BtcCircle,
   'btc': Btc,
+  'calculator-variant-outline': CalculatorVariantOutline,
+  'calculator': Calculator,
   'calendar-check': CalendarCheck,
   'calendar-clear': CalendarClear,
   'calendar-day': CalendarDay,
@@ -230,6 +301,17 @@ export default {
   'calendar-week': CalendarWeek,
   'calendar-xmark': CalendarXmark,
   'calendar': Calendar,
+  'cancel': Cancel,
+  'card-account-details-outline': CardAccountDetailsOutline,
+  'cart-arrow-right': CartArrowRight,
+  'cart-awaiting': CartAwaiting,
+  'cart-check': CartCheck,
+  'cart-heart': CartHeart,
+  'cart-remove': CartRemove,
+  'cart': Cart,
+  'cash-multiple': CashMultiple,
+  'cash-register': CashRegister,
+  'chart-areaspline': ChartAreaspline,
   'chart-column': ChartColumn,
   'chart-line-up': ChartLineUp,
   'chart-line': ChartLine,
@@ -271,9 +353,16 @@ export default {
   'clock-lines': ClockLines,
   'clock': Clock,
   'close-circle': CloseCircle,
+  'cloud-print-outline': CloudPrintOutline,
+  'comment-text-outline': CommentTextOutline,
   'conduct-code': ConductCode,
+  'content-save-check-outline': ContentSaveCheckOutline,
   'copy': Copy,
+  'credit-card-multiple-outline': CreditCardMultipleOutline,
+  'credit-card-multiple': CreditCardMultiple,
   'credit-card': CreditCard,
+  'currency-brl': CurrencyBrl,
+  'currency-usd': CurrencyUsd,
   'currency': Currency,
   'dashboard-outline': DashboardOutline,
   'dashboard': Dashboard,
@@ -287,6 +376,7 @@ export default {
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
   'eye': Eye,
+  'feature-search-outline': FeatureSearchOutline,
   'file-block': FileBlock,
   'file-check': FileCheck,
   'file-download': FileDownload,
@@ -299,11 +389,15 @@ export default {
   'file': File,
   'filter-xmark': FilterXmark,
   'filter': Filter,
+  'finance': Finance,
   'flag': Flag,
+  'folder-open': FolderOpen,
   'folder': Folder,
+  'format-list-bulleted': FormatListBulleted,
   'globe': Globe,
   'grid': Grid,
   'guard': Guard,
+  'hand-coin-outline': HandCoinOutline,
   'heart': Heart,
   'home': Home,
   'image-square': ImageSquare,
@@ -311,6 +405,7 @@ export default {
   'instagram': Instagram,
   'key-alt': KeyAlt,
   'key': Key,
+  'line-scan': LineScan,
   'list-square': ListSquare,
   'location-arrow': LocationArrow,
   'location-check': LocationCheck,
@@ -322,11 +417,19 @@ export default {
   'lock': Lock,
   'login': Login,
   'logout': Logout,
+  'magnify': Magnify,
   'mail-open': MailOpen,
   'mail': Mail,
+  'map-marker-minus-outline': MapMarkerMinusOutline,
+  'map-marker-plus-outline': MapMarkerPlusOutline,
+  'map-marker-radius-outline': MapMarkerRadiusOutline,
+  'map-marker-remove-outline': MapMarkerRemoveOutline,
+  'map-marker-star-outline': MapMarkerStarOutline,
   'map-pin': MapPin,
   'map': Map,
+  'menu-circle': MenuCircle,
   'menu': Menu,
+  'minus-circle-outline': MinusCircleOutline,
   'minus-circle': MinusCircle,
   'minus-square': MinusSquare,
   'minus': Minus,
@@ -334,17 +437,36 @@ export default {
   'money-insert': MoneyInsert,
   'moon': Moon,
   'network-wired': NetworkWired,
+  'numeric': Numeric,
   'pen-square': PenSquare,
+  'pencil-outline': PencilOutline,
   'phone': Phone,
   'pix': Pix,
   'plus-circle': PlusCircle,
   'plus': Plus,
+  'printer-outline': PrinterOutline,
+  'printer-pos-alert-outline': PrinterPosAlertOutline,
+  'printer-pos-check-outline': PrinterPosCheckOutline,
+  'printer-pos-cog-outline': PrinterPosCogOutline,
+  'printer-pos-plus-outline': PrinterPosPlusOutline,
+  'printer-pos-refresh-outline': PrinterPosRefreshOutline,
+  'printer-pos-remove-outline': PrinterPosRemoveOutline,
+  'printer-pos-stop-outline': PrinterPosStopOutline,
+  'printer-pos-sync-outline': PrinterPosSyncOutline,
+  'printer-pos-wrench-outline': PrinterPosWrenchOutline,
   'printer': Printer,
   'prize': Prize,
+  'qrcode-scan': QrcodeScan,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
   'receipt-alt': ReceiptAlt,
   'receipt-long': ReceiptLong,
+  'receipt-text-clock-outline': ReceiptTextClockOutline,
+  'receipt-text-edit-outline': ReceiptTextEditOutline,
+  'receipt-text-minus-outline': ReceiptTextMinusOutline,
+  'receipt-text-outline': ReceiptTextOutline,
+  'receipt-text-plus-outline': ReceiptTextPlusOutline,
+  'receipt-text-remove-outline': ReceiptTextRemoveOutline,
   'receipt': Receipt,
   'refresh': Refresh,
   'search': Search,
@@ -362,7 +484,9 @@ export default {
   'sliders-square': SlidersSquare,
   'speedometer': Speedometer,
   'square': Square,
+  'star-circle-outline': StarCircleOutline,
   'star': Star,
+  'sticker-text-outline': StickerTextOutline,
   'sun': Sun,
   'switch-horizontal-left-right': SwitchHorizontalLeftRight,
   'switch-horizontal-right-left': SwitchHorizontalRightLeft,
@@ -373,9 +497,15 @@ export default {
   'tags': Tags,
   'three-dots-horizontal': ThreeDotsHorizontal,
   'three-dots-vertical': ThreeDotsVertical,
+  'ticket-percent-outline': TicketPercentOutline,
+  'ticket': Ticket,
   'trash-blank': TrashBlank,
   'trash': Trash,
+  'trending-down': TrendingDown,
+  'trending-up': TrendingUp,
   'trophy': Trophy,
+  'truck-fast-outline': TruckFastOutline,
+  'truck-outline': TruckOutline,
   'unlock': Unlock,
   'user-check': UserCheck,
   'user-minus': UserMinus,
