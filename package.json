@@ -2,7 +2,7 @@
   "name": "elevz-icon",
   "homepage": "https://elevz.github.io/elevz-icon/",
   "private": false,
-  "version": "0.16.0",
+  "version": "0.17.0",
   "type": "module",
   "files": [
     "dist"
