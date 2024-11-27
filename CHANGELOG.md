@@ -1,3 +1,12 @@
+# [0.16.0](https://github.com/elevz/elevz-icon/compare/v0.15.0...v0.16.0) (2024-11-27)
+
+
+### Features
+
+* Change readme for test ([1b334a3](https://github.com/elevz/elevz-icon/commit/1b334a39532c266e081631a53feeeae981ba0422))
+
+
+
 # [0.15.0](https://github.com/elevz/elevz-icon/compare/v0.14.0...v0.15.0) (2024-11-15)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add question icon ([0cf004c](https://github.com/elevz/elevz-icon/commit/0cf004c9d4d879f22056b1fb19f7ba922c406676))
-
-
-
-## [0.11.1](https://github.com/elevz/elevz-icon/compare/v0.11.0...v0.11.1) (2024-08-29)
-
-
-### Bug Fixes
-
-* add stroke arrow curve ([cf4f70a](https://github.com/elevz/elevz-icon/commit/cf4f70a9cc8e2c6f9c834079acf20fe602f598c4))
 
 
 
