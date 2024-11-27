@@ -1,6 +1,5 @@
 /// <reference types="vite-plugin-svgr/client" />
 import AccountCash from "./account-cash.svg?react";
-import AccountUserPlus from "./account-user-plus.svg?react";
 import AddressBook from "./address-book.svg?react";
 import AddressCard from "./address-card.svg?react";
 import AlertCircle from "./alert-circle.svg?react";
@@ -40,7 +39,6 @@ import CalendarLines from "./calendar-lines.svg?react";
 import CalendarWeek from "./calendar-week.svg?react";
 import CalendarXmark from "./calendar-xmark.svg?react";
 import Calendar from "./calendar.svg?react";
-import Cancel from "./cancel.svg?react";
 import CardAccountDetails from "./card-account-details.svg?react";
 import CashMultiple from "./cash-multiple.svg?react";
 import CashRegister from "./cash-register.svg?react";
@@ -169,7 +167,6 @@ import MapPin from "./map-pin.svg?react";
 import Map from "./map.svg?react";
 import Math from "./math.svg?react";
 import Menu from "./menu.svg?react";
-import MinusCircleOutline from "./minus-circle-outline.svg?react";
 import MinusCircle from "./minus-circle.svg?react";
 import MinusSquare from "./minus-square.svg?react";
 import Minus from "./minus.svg?react";
@@ -266,7 +263,6 @@ import Xmark from "./xmark.svg?react";
 
 export default {
     'account-cash': AccountCash,
-  'account-user-plus': AccountUserPlus,
   'address-book': AddressBook,
   'address-card': AddressCard,
   'alert-circle': AlertCircle,
@@ -306,7 +302,6 @@ export default {
   'calendar-week': CalendarWeek,
   'calendar-xmark': CalendarXmark,
   'calendar': Calendar,
-  'cancel': Cancel,
   'card-account-details': CardAccountDetails,
   'cash-multiple': CashMultiple,
   'cash-register': CashRegister,
@@ -435,7 +430,6 @@ export default {
   'map': Map,
   'math': Math,
   'menu': Menu,
-  'minus-circle-outline': MinusCircleOutline,
   'minus-circle': MinusCircle,
   'minus-square': MinusSquare,
   'minus': Minus,
