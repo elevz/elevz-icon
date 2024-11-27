@@ -100,6 +100,7 @@ import ContentSaveCheckOutline from "./content-save-check-outline.svg?react";
 import Copy from "./copy.svg?react";
 import CreditCardMultipleOutline from "./credit-card-multiple-outline.svg?react";
 import CreditCardMultiple from "./credit-card-multiple.svg?react";
+import Coupon from "./coupon.svg?react";
 import CreditCard from "./credit-card.svg?react";
 import CurrencyBrl from "./currency-brl.svg?react";
 import CurrencyUsd from "./currency-usd.svg?react";
@@ -107,11 +108,16 @@ import Currency from "./currency.svg?react";
 import DashboardOutline from "./dashboard-outline.svg?react";
 import Dashboard from "./dashboard.svg?react";
 import Deadline from "./deadline.svg?react";
+import DeliveryCart from "./delivery-cart.svg?react";
+import DeliveryParcel from "./delivery-parcel.svg?react";
+import DeliveryTruckFast from "./delivery-truck-fast.svg?react";
+import DeliveryTruck from "./delivery-truck.svg?react";
 import Document from "./document.svg?react";
 import Dollar from "./dollar.svg?react";
 import Dot from "./dot.svg?react";
 import Email from "./email.svg?react";
 import Euro from "./euro.svg?react";
+import Exclamation from "./exclamation.svg?react";
 import EyeAlt from "./eye-alt.svg?react";
 import EyeOff from "./eye-off.svg?react";
 import EyeSlashAlt from "./eye-slash-alt.svg?react";
@@ -168,6 +174,7 @@ import MapMarkerStarOutline from "./map-marker-star-outline.svg?react";
 import MapPin from "./map-pin.svg?react";
 import Map from "./map.svg?react";
 import MenuCircle from "./menu-circle.svg?react";
+import Math from "./math.svg?react";
 import Menu from "./menu.svg?react";
 import MinusCircleOutline from "./minus-circle-outline.svg?react";
 import MinusCircle from "./minus-circle.svg?react";
@@ -197,8 +204,14 @@ import PrinterPosWrenchOutline from "./printer-pos-wrench-outline.svg?react";
 import Printer from "./printer.svg?react";
 import Prize from "./prize.svg?react";
 import QrcodeScan from "./qrcode-scan.svg?react";
+import PriceTagAlt from "./price-tag-alt.svg?react";
+import PriceTag from "./price-tag.svg?react";
+import Printer from "./printer.svg?react";
+import Prize from "./prize.svg?react";
+import Product from "./product.svg?react";
 import Qrcode from "./qrcode.svg?react";
 import QuestionCircle from "./question-circle.svg?react";
+import Question from "./question.svg?react";
 import ReceiptAlt from "./receipt-alt.svg?react";
 import ReceiptLong from "./receipt-long.svg?react";
 import ReceiptTextClockOutline from "./receipt-text-clock-outline.svg?react";
@@ -360,6 +373,7 @@ export default {
   'copy': Copy,
   'credit-card-multiple-outline': CreditCardMultipleOutline,
   'credit-card-multiple': CreditCardMultiple,
+  'coupon': Coupon,
   'credit-card': CreditCard,
   'currency-brl': CurrencyBrl,
   'currency-usd': CurrencyUsd,
@@ -367,11 +381,16 @@ export default {
   'dashboard-outline': DashboardOutline,
   'dashboard': Dashboard,
   'deadline': Deadline,
+  'delivery-cart': DeliveryCart,
+  'delivery-parcel': DeliveryParcel,
+  'delivery-truck-fast': DeliveryTruckFast,
+  'delivery-truck': DeliveryTruck,
   'document': Document,
   'dollar': Dollar,
   'dot': Dot,
   'email': Email,
   'euro': Euro,
+  'exclamation': Exclamation,
   'eye-alt': EyeAlt,
   'eye-off': EyeOff,
   'eye-slash-alt': EyeSlashAlt,
@@ -428,6 +447,7 @@ export default {
   'map-pin': MapPin,
   'map': Map,
   'menu-circle': MenuCircle,
+  'math': Math,
   'menu': Menu,
   'minus-circle-outline': MinusCircleOutline,
   'minus-circle': MinusCircle,
@@ -457,8 +477,14 @@ export default {
   'printer': Printer,
   'prize': Prize,
   'qrcode-scan': QrcodeScan,
+  'price-tag-alt': PriceTagAlt,
+  'price-tag': PriceTag,
+  'printer': Printer,
+  'prize': Prize,
+  'product': Product,
   'qrcode': Qrcode,
   'question-circle': QuestionCircle,
+  'question': Question,
   'receipt-alt': ReceiptAlt,
   'receipt-long': ReceiptLong,
   'receipt-text-clock-outline': ReceiptTextClockOutline,
