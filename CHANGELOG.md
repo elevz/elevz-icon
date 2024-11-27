@@ -1,3 +1,12 @@
+# [0.19.0](https://github.com/elevz/elevz-icon/compare/v0.18.0...v0.19.0) (2024-11-27)
+
+
+### Features
+
+* Change colors icons last added to current color ([2da3b5c](https://github.com/elevz/elevz-icon/commit/2da3b5c3c93d789ba7ffb2dacff9d96467ec6573))
+
+
+
 # [0.18.0](https://github.com/elevz/elevz-icon/compare/v0.17.0...v0.18.0) (2024-11-27)
 
 
@@ -31,15 +40,6 @@
 ### Features
 
 * add new icons ([f83e817](https://github.com/elevz/elevz-icon/commit/f83e8174ba2a1caa987eaa8f7bdf38c9a1dbf49b))
-
-
-
-# [0.14.0](https://github.com/elevz/elevz-icon/compare/v0.13.0...v0.14.0) (2024-11-11)
-
-
-### Features
-
-* add exclamation icon ([e571dab](https://github.com/elevz/elevz-icon/commit/e571dab5f592be75ebfed122a57884a49dde7ba6))
 
 
 
